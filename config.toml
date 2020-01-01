@@ -12,13 +12,18 @@ googleAnalytics = "UA-25937034-5"
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
   showReadingTime = true
+[[params.social]]
+  name = "Twitter"
+  icon = "fab fa-twitter fa-2x"
+  weight = 2
+  url = "https://twitter.com/punchdrunker/"
 
 [languages]
   [languages.en]
     title = "punchdrunker.log"
     subtitle = "A simple theme for Hugo"
-    keywords = ""
-    copyright = ""
+    keywords = "punchdrunker"
+    copyright = "© 2019 punchdrunker"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
