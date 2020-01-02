@@ -1,0 +1,6 @@
+.footer__inner {
+    flex-direction: column;
+}
+.footer_social a {
+    margin: 8px;
+}

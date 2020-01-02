@@ -1,10 +1,14 @@
 <footer class="footer">
   <div class="footer__inner">
-    <div>
+    <div class="footer_social">
       <a href="https://twitter.com/punchdrunker"><i class="fab fa-twitter fa-2x" aria-hidden="true"></i></a>
+      <a href="https://medium.com/@punchdrunker"><i class="fab fa-medium fa-2x" aria-hidden="true"></i></a>
+      <a href="https://www.youtube.com/channel/UCYxurnKWoQ2zGj6tEWfWrbA/featured?view_as=subscriber"><i class="fab fa-youtube fa-2x" aria-hidden="true"></i></a>
       <a href="https://github.com/punchdrunker"><i class="fab fa-github fa-2x" aria-hidden="true"></i></a>
+      <a href="https://speakerdeck.com/punchdrunker"><i class="fab fa-speaker-deck fa-2x" aria-hidden="true"></i></a>
           
-      </div>
+    </div>
+    <br />
     {{ if $.Site.Copyright }}
       <div class="copyright copyright--user">{{ $.Site.Copyright | safeHTML }}</div>
     {{else}}
