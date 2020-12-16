@@ -3,9 +3,15 @@ title: "みてねに在職しています(n年ぶりm回目)"
 date: 2020-12-15T23:34:54+09:00
 draft: false
 description: "みてねに異動して4年ちょっと経ちました。まだ辞めてないですし、今年1年をふりかえります"
+images:  ["/skyline_20201215.jpg"]
+cover: "/skyline_20201215.jpg"
 ---
 
+![skyline 20201215](/skyline_20201215.jpg)
+
 こんにちは、[@punchdrunker](https://twitter.com/punchdrunker)です。はてなやQiitaのアカウントを削除してからさっぱり長文を書く事もなくなってしまいましたが、久しぶりに在職エントリを書こうと思いました。
+
+画像はオフィスから撮影した新宿方面の風景です。
 
 # 自己紹介
 
