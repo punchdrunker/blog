@@ -1,6 +1,6 @@
 ---
 title: "ビールをめぐる冒険"
-date: 2020-12-21T00:00:00+09:00
+date: 2020-12-22T00:30:00+09:00
 draft: false
 description: "Beer Advent Calendar 2020 22日目の記事です。これまで飲んだり体験醸造したりしたビールを紹介していきます。"
 images:  ["/ggb.jpg", "dspa.jpg"]
