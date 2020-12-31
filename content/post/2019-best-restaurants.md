@@ -4,6 +4,7 @@ date: 2019-12-31T22:04:54+09:00
 draft: false
 images:  ["/rob.jpg"]
 cover:  "/rob.jpg"
+tags: ["eat", "drink"]
 description: "2019に行ったレストランの中で、何度も行きたくなるような素敵なお店を紹介します"
 ---
 

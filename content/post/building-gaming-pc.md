@@ -4,6 +4,7 @@ date: 2020-12-26T10:30:00+09:00
 draft: false
 description: "4年ぶりにデスクトップPCを組み立てたので、雑感を書きます。"
 images:  [ "buildingpc.jpg"]
+tags: ["gadget"]
 cover: "/buildingpc.jpg"
 ---
 

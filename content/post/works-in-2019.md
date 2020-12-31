@@ -2,6 +2,7 @@
 title: "2019年に仕事でやった事"
 date: 2020-01-01T15:04:54+09:00
 draft: false
+tags: ["work"]
 description: "2019年に仕事でやった事を振り返りまくります"
 ---
 

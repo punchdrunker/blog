@@ -4,6 +4,7 @@ date: 2020-12-15T23:34:54+09:00
 draft: false
 description: "みてねに異動して4年ちょっと経ちました。まだ辞めてないですし、今年1年をふりかえります"
 images:  ["/skyline_20201215.jpg"]
+tags: ["work"]
 cover: "/skyline_20201215.jpg"
 ---
 
