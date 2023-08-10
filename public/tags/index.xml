@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Even - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Even - A super concise theme for Hugo</description>
+    <title>Tags on punchdrunker.log</title>
+    <link>https://punchdrunker.tokyo/tags/</link>
+    <description>Recent content in Tags on punchdrunker.log</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <copyright>© 2019 punchdrunker</copyright>
+    <lastBuildDate>Thu, 10 Aug 2023 17:04:54 +0900</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://punchdrunker.tokyo/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>report</title>
+      <link>https://punchdrunker.tokyo/tags/report/</link>
+      <pubDate>Thu, 10 Aug 2023 17:04:54 +0900</pubDate>
+      
+      <guid>https://punchdrunker.tokyo/tags/report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gadget</title>
+      <link>https://punchdrunker.tokyo/tags/gadget/</link>
+      <pubDate>Sat, 26 Dec 2020 10:30:00 +0900</pubDate>
+      
+      <guid>https://punchdrunker.tokyo/tags/gadget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drink</title>
+      <link>https://punchdrunker.tokyo/tags/drink/</link>
+      <pubDate>Tue, 22 Dec 2020 00:30:00 +0900</pubDate>
+      
+      <guid>https://punchdrunker.tokyo/tags/drink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://punchdrunker.tokyo/tags/work/</link>
+      <pubDate>Tue, 15 Dec 2020 23:34:54 +0900</pubDate>
+      
+      <guid>https://punchdrunker.tokyo/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photo</title>
+      <link>https://punchdrunker.tokyo/tags/photo/</link>
+      <pubDate>Wed, 01 Jan 2020 12:00:00 +0900</pubDate>
+      
+      <guid>https://punchdrunker.tokyo/tags/photo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eat</title>
+      <link>https://punchdrunker.tokyo/tags/eat/</link>
+      <pubDate>Tue, 31 Dec 2019 22:04:54 +0900</pubDate>
+      
+      <guid>https://punchdrunker.tokyo/tags/eat/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

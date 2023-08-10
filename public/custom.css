@@ -1,0 +1,9 @@
+.content {
+    margin-bottom:0;
+}
+.footer__inner {
+    flex-direction: column;
+}
+.footer_social a {
+    margin: 8px;
+}

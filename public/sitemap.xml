@@ -1,22 +1,89 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://punchdrunker.tokyo/post/</loc>
+    <lastmod>2023-08-10T17:04:54+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://punchdrunker.tokyo/</loc>
+    <lastmod>2023-08-10T17:04:54+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://punchdrunker.tokyo/tags/report/</loc>
+    <lastmod>2023-08-10T17:04:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/tags/</loc>
+    <lastmod>2023-08-10T17:04:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/post/daily-report-2023-08-10/</loc>
+    <lastmod>2023-08-10T17:04:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/tags/gadget/</loc>
+    <lastmod>2020-12-26T10:30:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/post/building-gaming-pc/</loc>
+    <lastmod>2020-12-26T10:30:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/tags/drink/</loc>
+    <lastmod>2020-12-22T00:30:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/post/beer-advent-calendar-2020/</loc>
+    <lastmod>2020-12-22T00:30:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/tags/work/</loc>
+    <lastmod>2020-12-15T23:34:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/post/works-in-2020/</loc>
+    <lastmod>2020-12-15T23:34:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/post/works-in-2019/</loc>
+    <lastmod>2020-01-01T15:04:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/post/casa-museu-dali/</loc>
+    <lastmod>2020-01-01T12:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/tags/photo/</loc>
+    <lastmod>2020-01-01T12:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/tags/eat/</loc>
+    <lastmod>2019-12-31T22:04:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/post/2019-best-restaurants/</loc>
+    <lastmod>2019-12-31T22:04:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://punchdrunker.tokyo/categories/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gadget on punchdrunker.log</title>
+    <link>https://punchdrunker.tokyo/tags/gadget/</link>
+    <description>Recent content in gadget on punchdrunker.log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019 punchdrunker</copyright>
+    <lastBuildDate>Sat, 26 Dec 2020 10:30:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://punchdrunker.tokyo/tags/gadget/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ryzen 5900X と RTX 3080でゲーミングPCを組んだ</title>
+      <link>https://punchdrunker.tokyo/post/building-gaming-pc/</link>
+      <pubDate>Sat, 26 Dec 2020 10:30:00 +0900</pubDate>
+      
+      <guid>https://punchdrunker.tokyo/post/building-gaming-pc/</guid>
+      <description>こんにちは、@punchdrunkerです。4年ぶりにPC組んだら浦島太郎過ぎたので振り返りを書いていきます。
+これまではIntelチップでしかPC組んだことなかったのですが、最近はAMDが人気なので勢いで5900X 買ってみました。サムネはRTX 2080ですが、色々あって最後は RTX 3080を使ってます。
+実際の様子 ためしに組立てるところを撮影して6倍速でまとめてみました。カメラはsonyのa7r2で撮影してみてわかったけど、照明とレンズを揃えないと微妙。明るいレンズが55mmしかなかったのでセッティングが大変でした。モニタもあると安心。
+  買い替える前のマシンスペック 4年前の年末に15万弱で作った気がします。SSD起動のWindowsは今でもそこそこ快適でした。
+ CPU: intel core i 7 6700K 4コア 4GHz CPUクーラー: 付属の空冷 グラボ: GTX 1070 マザボ: ASRock Z170 EXTREME 4 メモリ: 16GB2枚(32GB) ストレージ: SSD (Windows)とHDD(Linux)のデュアルブート 電源: 500W PCケース:Cooler Masterの黒いやつ  今回揃えた主要パーツ 以下amazon.co.jpのリンクです。CPUとグラボは秋葉原を歩いてて運が良ければ買えるかも、くらいの入手難易度です。プレミア付いても良ければいつでも買える程度。
+ CPU: AMD Ryzen 9 5900X CPUクーラー: MasterLiquid ML360R RGB (簡易水冷) (光る) グラボ: INNO3D RTX 3080 (光る) マザボ: ASRockX570 Taichi Razer edition(光る) メモリ: CORSAIR DDR4-3200MHz 16GBメモリ2枚 (光る) ストレージ: WDのM.</description>
+    </item>
+    
+  </channel>
+</rss>
