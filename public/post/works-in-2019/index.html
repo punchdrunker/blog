@@ -1,1 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+      <title>2019年に仕事でやった事 :: punchdrunker.log — A simple theme for Hugo</title>
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="description" content="仕事がgithub中心に回っているので、closeしたPRの一覧を眺めて2019年をふりかえります。
+frontend 自分は大したことはしていないが、PCブラウザ用の実装が必要になり、1、2ヶ月間くらい集中してreact &#43; redux &#43; typescriptを書いていた。reduxは話でしか聞いたことがなく、概念を知っていただけだったので、実際に書いてみてどんなものかが理解できた。
+夏以降は継続的に実装することもなくなったので、今はvue.js &#43; nuxt.jsを使ってfirestoreのデータをいじる実装を勉強している。小規模開発ではvueの方が小回りがきいて楽に書ける気がするので、今のところvueの方を気に入っている。
+iOS 大きめの仕事はあまり無いけどUIWebViewからWKWebViewへの移行を一気にやった。ちょっと調べればハマりポイントがたくさん出てくるが、それでも苦労するくらい大変だった。1度のリリースで全部うまく行ったわけではなく、2、3度のリリースで調整していって、何とか意図する通り動いてくれている。
+また、古い画面でテストもほとんど無かったので、MVPパターンぽい構造にして各種入力に対して適切に振舞えるかのテストを書けるようにした。
+Android 2019年はすごくAndroid出来る人が横に居たので、その人に甘えてAndroid以外のタスクに時間を割いた。大きな仕事はしていないが、minSdkVersionを21に上げた事で、リソースやスタイルまわりを整理した。
+本業以外ではAndroid Live Coding Session という、ライブコーディングをメインにした勉強会を実施してみた。会社内外からゲストを迎えて、写真を共有するアプリをその都度ゲストの好みで実装していくという内容。
+集客は少なめだったけど、参加者の熱量は高く、面白いイベントだったと思う。しかし年の後半から業務タスクが増えてきたこともあり、企画に割く時間が作れないまま自然消滅してしまった。
+Rails Androidよりも書いていたかもしれない。管理画面の使い勝手があまり良くないまま放置されていたので、小さなプロジェクト化してエンジニアやCS担当者が使いやすいように改善していった。このフィールドで検索したいとか、本番環境で実行してるコマンドをボタン1つで終わらせるとか、そういうやつ。放置されてた系のタスクは超簡単なのにめっちゃ便利になることがあったりして、やってて結構面白い。
+Firebase FirebaseはもともとFCMとAnalyticsくらいしか使っていなかったが、RemoteConfigやCloud Messaging、In App Messagingなどの導入を進めた。それまではリモート側の制御するものはちょっとしたものでも自前のAPIで何でもやってしまう事が多かった。しかしちょっとした変更の為にテストを回したりデプロイする必要があるのが嫌だったので、ユーザーごとのカスタマイズがそれほど細かくなく、変更の即時性が重要でないものはRemoteConfigなどに任せることにした。
+Firebaseに限らず最初にツールを導入するのは心理的なハードルが高い。それに当初POから上がってきたRemoteConfigで出来そうなタスクの仕様は割と複雑で、それをFirebaseでやるのは気が重いというのもあった。
+実際RemoteConfigの積極活用は最初はメンバー受けが悪かったが、Firebaseで出来る範囲で実現可能な事をまとめ、POや各部担当者に説明し、アプリ内の誘導バナーみたいなものは今はRemote Configで動いている。スケジューリングも出来るので、休日にデプロイする必要もない。しかし条件が複雑になると変更作業もその分複雑になるのでデメリットもある。ただ、リバートは簡単にできるので今のところ大きな問題は起きていない。
+Feature Toggle / Trunk Based Development 4年前はエンジニアが6名しかないチームだったが、いまでは17名もいる。これまではアプリもサーバー側もgitflowベースのブランチ運用をしてきてとくに問題も無かったが、昨年くらいから数ヶ月に渡ってfeatureブランチが複数存在するようになり、conflictの手間が問題になり始めた。そこでFeature Toggle &#43; Trunk Based Developmentの導入を提案した。
+こう言うと自分が全部やったみたいな表現になってしまうが、実際には、アプリでフラグを設けて、デバッグ時だけ機能が有効になるようにしましょう、という提案をしただけで、あとは他のメンバーが良い感じで実装してくれた。フラグをリモートから操作するのも簡単だが、App Storeのレビューガイドラインではアウトなので、iOSではローカルのフラグをデバッグ画面で切り替えられるだけに留めている。
+現在大きめの機能のtoggleを使いながらAPIのQAを進めようとしているところで、その際はgit flowではなく、Trunk Basedなブランチ運用を試しているところ。初めてのことなのでどうなるか判らないけど、多分大丈夫では?くらいの雰囲気。ここら辺の話は別途勉強会でまとめて発表予定。
+転職の練習 これは2、3年くらいの周期でやっている活動なので、会社を本気で辞めたいと思っているわけではない。このくらいの周期で転職活動をしないと、自分は職務経歴書が更新できないので、しょうがなくやっている。あと面接の受け答えも久しぶりだと良い感じに回答できなかったりするので、定期的にやる必要がある。そしてもし良い条件のオファーがあったらそれは受けると思う。
+ただ今回の転職活動で思ったのは、現状の待遇がかなり良い方らしいということ。途中から相手の顔が引きつってくることもあった。裁量労働や業務時間の扱いだったり、海外カンファレンス参加へのサポート、有給20日が自由に使える事など、総合的にはかなり現職の待遇は良いことを実感した。
+またヨーロッパへの転職活動も試してみて、こちらは惨敗。一度エージェントとオンラインで面談したっきり、現状のスペックと希望年収で望みはなさそうだった。年収を抑え、フリーランスとして活動すれば風向きは変わったかもしれないが、現状ではそこまでの熱量で海外勤務したいわけではないので、もうちょっとちゃんと考えて努力を重ねる必要がある事を実感した。
+これからのキャリアパス こないだ久しぶりに学生から就職先を選ぶ参考にするため、これまでのキャリアについて聞かせて欲しいと言われたので、未経験からプログラミングを勉強し、これまでやってきた事、節目ごとに考えた事を紹介する機会があった。
+人それぞれ色々考えてるのだろうが、自分の場合は都度面白そうな事をそれなりに真面目に勉強したり、本を読んだりすることはあるけど、基本的には行き当たりばったりで生きている。だがせっかくの機会なので、ちょっと申し訳ない気持のまま自分の経験についてなるべく誠実に話した。
+会社選びの基準とかも聞かれたが、正直どこの会社行っても色んな人と知り合えるし、学校のクラス分けくらいの感覚しかない。学校と違うのは自分の意思で別のクラスに転職できることくらいか。合わなければ辞めれば良いし。だけどそういう感覚を持つようになったのは確かに最近のことで10年前はそんな事思ってなかったので、社会人経験を積んで考え方も変わったんだと思う。
+再現性がありそうなポイントで言うと、ピークを越えて赤字転落した会社で働くのは辛い事が多いのでやめた方がいい。色々な制約が強くなり、選択肢も狭まる。優秀な人もどんどんいなくなる。その反面、よくわからない博打的な人事が発生したり、しまいには自分の仕事に全然集中できなくなるのでおすすめしない。
+あと、基本的に他人は何の責任も取ってくれないので他人のアドバイスを頼りにしないで自分で考えて行動する事が大事だということ。出来る人は出来るし、出来ない人は出来ない。それはしょうがないことだ。"/>
+<meta name="keywords" content="punchdrunker"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://punchdrunker.tokyo/post/works-in-2019/" />
 
+
+
+
+
+<link rel="stylesheet" href="https://punchdrunker.tokyo/assets/style.css">
+
+
+<link rel="stylesheet" href="https://punchdrunker.tokyo/style.css">
+<link rel="stylesheet" href="https://punchdrunker.tokyo/custom.css">
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://punchdrunker.tokyo/img/apple-touch-icon-144-precomposed.png">
+<link rel="shortcut icon" href="https://punchdrunker.tokyo/favicon.ico">
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="2019年に仕事でやった事"/>
+<meta name="twitter:description" content="2019年に仕事でやった事を振り返りまくります"/>
+
+
+
+<meta property="og:title" content="2019年に仕事でやった事" />
+<meta property="og:description" content="2019年に仕事でやった事を振り返りまくります" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://punchdrunker.tokyo/post/works-in-2019/" />
+<meta property="article:published_time" content="2020-01-01T15:04:54+09:00" />
+<meta property="article:modified_time" content="2020-01-01T15:04:54+09:00" /><meta property="og:site_name" content="punchdrunker.log" />
+
+
+
+
+
+
+<script src="https://kit.fontawesome.com/a2fa4b6cc2.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+  </head>
+  <body class="dark-theme">
+    <div class="container">
+      <header class="header">
+  <span class="header__inner">
+    <a href="/" class="logo" style="text-decoration: none;">
+  
+    <span class="logo__mark"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" viewBox="0 0 44 44">
+  <path fill="none" d="M15 8l14.729 14.382L15 35.367"/>
+</svg>
+</span>
+    <span class="logo__text">punchdrunker.log</span>
+  
+</a>
+
+    <span class="header__right">
+      
+      <span class="theme-toggle">
+        <svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+
+      </span>
+    </span>
+  </span>
+</header>
+
+
+      <div class="content">
+        
+  <div class="post">
+    <h2 class="post-title"><a href="https://punchdrunker.tokyo/post/works-in-2019/">2019年に仕事でやった事</a></h2>
+    <div class="post-meta">
+      
+        <span class="post-date">
+            2020-01-01
+        </span>
+      
+      
+      
+        <span class="post-read-time">— 1 min read</span>
+      
+    </div>
+
+    
+      <span class="post-tags">
+        
+          #<a href="https://punchdrunker.tokyo/tags/work/">work</a>&nbsp;
+        
+      </span>
+    
+
+    <div class="post-content">
+      <p>仕事がgithub中心に回っているので、closeしたPRの一覧を眺めて2019年をふりかえります。</p>
+<h1 id="frontend">frontend</h1>
+<p>自分は大したことはしていないが、PCブラウザ用の実装が必要になり、1、2ヶ月間くらい集中してreact + redux + typescriptを書いていた。reduxは話でしか聞いたことがなく、概念を知っていただけだったので、実際に書いてみてどんなものかが理解できた。</p>
+<p>夏以降は継続的に実装することもなくなったので、今はvue.js + nuxt.jsを使ってfirestoreのデータをいじる実装を勉強している。小規模開発ではvueの方が小回りがきいて楽に書ける気がするので、今のところvueの方を気に入っている。</p>
+<h1 id="ios">iOS</h1>
+<p>大きめの仕事はあまり無いけどUIWebViewからWKWebViewへの移行を一気にやった。ちょっと調べればハマりポイントがたくさん出てくるが、それでも苦労するくらい大変だった。1度のリリースで全部うまく行ったわけではなく、2、3度のリリースで調整していって、何とか意図する通り動いてくれている。</p>
+<p>また、古い画面でテストもほとんど無かったので、MVPパターンぽい構造にして各種入力に対して適切に振舞えるかのテストを書けるようにした。</p>
+<h1 id="android">Android</h1>
+<p>2019年はすごくAndroid出来る人が横に居たので、その人に甘えてAndroid以外のタスクに時間を割いた。大きな仕事はしていないが、minSdkVersionを21に上げた事で、リソースやスタイルまわりを整理した。</p>
+<p>本業以外では<a href="https://app-training.connpass.com/event/140485/">Android Live Coding Session</a> という、ライブコーディングをメインにした勉強会を実施してみた。会社内外からゲストを迎えて、写真を共有するアプリをその都度ゲストの好みで実装していくという内容。</p>
+<p>集客は少なめだったけど、参加者の熱量は高く、面白いイベントだったと思う。しかし年の後半から業務タスクが増えてきたこともあり、企画に割く時間が作れないまま自然消滅してしまった。</p>
+<h1 id="rails">Rails</h1>
+<p>Androidよりも書いていたかもしれない。管理画面の使い勝手があまり良くないまま放置されていたので、小さなプロジェクト化してエンジニアやCS担当者が使いやすいように改善していった。このフィールドで検索したいとか、本番環境で実行してるコマンドをボタン1つで終わらせるとか、そういうやつ。放置されてた系のタスクは超簡単なのにめっちゃ便利になることがあったりして、やってて結構面白い。</p>
+<h1 id="firebase">Firebase</h1>
+<p>FirebaseはもともとFCMとAnalyticsくらいしか使っていなかったが、RemoteConfigやCloud Messaging、In App Messagingなどの導入を進めた。それまではリモート側の制御するものはちょっとしたものでも自前のAPIで何でもやってしまう事が多かった。しかしちょっとした変更の為にテストを回したりデプロイする必要があるのが嫌だったので、ユーザーごとのカスタマイズがそれほど細かくなく、変更の即時性が重要でないものはRemoteConfigなどに任せることにした。</p>
+<p>Firebaseに限らず最初にツールを導入するのは心理的なハードルが高い。それに当初POから上がってきたRemoteConfigで出来そうなタスクの仕様は割と複雑で、それをFirebaseでやるのは気が重いというのもあった。</p>
+<p>実際RemoteConfigの積極活用は最初はメンバー受けが悪かったが、Firebaseで出来る範囲で実現可能な事をまとめ、POや各部担当者に説明し、アプリ内の誘導バナーみたいなものは今はRemote Configで動いている。スケジューリングも出来るので、休日にデプロイする必要もない。しかし条件が複雑になると変更作業もその分複雑になるのでデメリットもある。ただ、リバートは簡単にできるので今のところ大きな問題は起きていない。</p>
+<h1 id="feature-toggle--trunk-based-development">Feature Toggle / Trunk Based Development</h1>
+<p>4年前はエンジニアが6名しかないチームだったが、いまでは17名もいる。これまではアプリもサーバー側もgitflowベースのブランチ運用をしてきてとくに問題も無かったが、昨年くらいから数ヶ月に渡ってfeatureブランチが複数存在するようになり、conflictの手間が問題になり始めた。そこでFeature Toggle + Trunk Based Developmentの導入を提案した。</p>
+<p>こう言うと自分が全部やったみたいな表現になってしまうが、実際には、アプリでフラグを設けて、デバッグ時だけ機能が有効になるようにしましょう、という提案をしただけで、あとは他のメンバーが良い感じで実装してくれた。フラグをリモートから操作するのも簡単だが、App Storeのレビューガイドラインではアウトなので、iOSではローカルのフラグをデバッグ画面で切り替えられるだけに留めている。</p>
+<p>現在大きめの機能のtoggleを使いながらAPIのQAを進めようとしているところで、その際はgit flowではなく、Trunk Basedなブランチ運用を試しているところ。初めてのことなのでどうなるか判らないけど、多分大丈夫では?くらいの雰囲気。ここら辺の話は別途勉強会でまとめて発表予定。</p>
+<h1 id="heading">転職の練習</h1>
+<p>これは2、3年くらいの周期でやっている活動なので、会社を本気で辞めたいと思っているわけではない。このくらいの周期で転職活動をしないと、自分は職務経歴書が更新できないので、しょうがなくやっている。あと面接の受け答えも久しぶりだと良い感じに回答できなかったりするので、定期的にやる必要がある。そしてもし良い条件のオファーがあったらそれは受けると思う。</p>
+<p>ただ今回の転職活動で思ったのは、現状の待遇がかなり良い方らしいということ。途中から相手の顔が引きつってくることもあった。裁量労働や業務時間の扱いだったり、海外カンファレンス参加へのサポート、有給20日が自由に使える事など、総合的にはかなり現職の待遇は良いことを実感した。</p>
+<p>またヨーロッパへの転職活動も試してみて、こちらは惨敗。一度エージェントとオンラインで面談したっきり、現状のスペックと希望年収で望みはなさそうだった。年収を抑え、フリーランスとして活動すれば風向きは変わったかもしれないが、現状ではそこまでの熱量で海外勤務したいわけではないので、もうちょっとちゃんと考えて努力を重ねる必要がある事を実感した。</p>
+<h1 id="heading-1">これからのキャリアパス</h1>
+<p>こないだ久しぶりに学生から就職先を選ぶ参考にするため、これまでのキャリアについて聞かせて欲しいと言われたので、未経験からプログラミングを勉強し、これまでやってきた事、節目ごとに考えた事を紹介する機会があった。</p>
+<p>人それぞれ色々考えてるのだろうが、自分の場合は都度面白そうな事をそれなりに真面目に勉強したり、本を読んだりすることはあるけど、基本的には行き当たりばったりで生きている。だがせっかくの機会なので、ちょっと申し訳ない気持のまま自分の経験についてなるべく誠実に話した。</p>
+<p>会社選びの基準とかも聞かれたが、正直どこの会社行っても色んな人と知り合えるし、学校のクラス分けくらいの感覚しかない。学校と違うのは自分の意思で別のクラスに転職できることくらいか。合わなければ辞めれば良いし。だけどそういう感覚を持つようになったのは確かに最近のことで10年前はそんな事思ってなかったので、社会人経験を積んで考え方も変わったんだと思う。</p>
+<p>再現性がありそうなポイントで言うと、ピークを越えて赤字転落した会社で働くのは辛い事が多いのでやめた方がいい。色々な制約が強くなり、選択肢も狭まる。優秀な人もどんどんいなくなる。その反面、よくわからない博打的な人事が発生したり、しまいには自分の仕事に全然集中できなくなるのでおすすめしない。</p>
+<p>あと、基本的に他人は何の責任も取ってくれないので他人のアドバイスを頼りにしないで自分で考えて行動する事が大事だということ。出来る人は出来るし、出来ない人は出来ない。それはしょうがないことだ。</p>
+
+    </div>
+    
+      
+        <div class="pagination">
+          <div class="pagination__title">
+            <span class="pagination__title-h">Read other posts</span>
+            <hr />
+          </div>
+          <div class="pagination__buttons">
+            
+              <span class="button previous">
+                <a href="https://punchdrunker.tokyo/post/works-in-2020/">
+                  <span class="button__icon">←</span>
+                  <span class="button__text">みてねに在職しています(n年ぶりm回目)</span>
+                </a>
+              </span>
+            
+            
+              <span class="button next">
+                <a href="https://punchdrunker.tokyo/post/casa-museu-dali/">
+                  <span class="button__text">Casa-Museu Salvador Dali</span>
+                  <span class="button__icon">→</span>
+                </a>
+              </span>
+            
+          </div>
+        </div>
+      
+    
+    
+
+    
+      
+        
+
+      
+    
+    
+    </div>
+
+      </div>
+
+      
+        <footer class="footer">
+  <div class="footer__inner">
+    <div class="footer_social">
+      <a href="https://twitter.com/punchdrunker"><i class="fab fa-twitter fa-2x" aria-hidden="true"></i></a>
+      <a href="https://medium.com/@punchdrunker"><i class="fab fa-medium fa-2x" aria-hidden="true"></i></a>
+      <a href="https://www.youtube.com/channel/UCYxurnKWoQ2zGj6tEWfWrbA/featured?view_as=subscriber"><i class="fab fa-youtube fa-2x" aria-hidden="true"></i></a>
+      <a href="https://github.com/punchdrunker"><i class="fab fa-github fa-2x" aria-hidden="true"></i></a>
+      <a href="https://speakerdeck.com/punchdrunker"><i class="fab fa-speaker-deck fa-2x" aria-hidden="true"></i></a>
+          
+    </div>
+    <br />
+    
+      <div class="copyright copyright--user">© 2019 punchdrunker</div>
+    
+  </div>
+</footer>
+
+<script src="https://punchdrunker.tokyo/assets/main.js"></script>
+<script src="https://punchdrunker.tokyo/assets/prism.js"></script>
+
+
+      
+    </div>
+
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-25937034-5', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    
+  </body>
+</html>
