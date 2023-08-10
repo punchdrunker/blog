@@ -5,11 +5,7 @@
     <link>https://punchdrunker.tokyo/categories/</link>
     <description>Recent content in Categories on punchdrunker.log</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2019 punchdrunker</copyright>
-    
-	<atom:link href="https://punchdrunker.tokyo/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language>
+    <copyright>© 2019 punchdrunker</copyright><atom:link href="https://punchdrunker.tokyo/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
