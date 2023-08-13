@@ -2,3 +2,7 @@ baseURL = 'https://punchdrunker.tokyo/'
 languageCode = 'ja-jp'
 theme = 'paper'
 title = 'punchdrunker.log'
+[params]
+  twitter = 'punchdrunker'
+  github = 'punchdrunker'
+  rss = true
