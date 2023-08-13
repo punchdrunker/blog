@@ -1,0 +1,4 @@
+baseURL = 'https://punchdrunker.tokyo/'
+languageCode = 'ja-jp'
+theme = 'paper'
+title = 'punchdrunker.log'
