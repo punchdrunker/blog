@@ -13,7 +13,9 @@
       <pubDate>Fri, 18 Aug 2023 23:12:34 +0900</pubDate>
       
       <guid>https://punchdrunker.tokyo/post/2023-08-18/</guid>
-      <description></description>
+      <description>開発 Android ひたすらマルチモジュール対応をした。
+strings.xmlを参照するクラスのルールをまだあまり決めていなくて、featureモジュールとcoer:uiだけはstrings.xmlを持たせても良いのかなー、などと悩んだ。翻訳ツールとの連携があるので、あまりxmlが増えるのは嬉しくない。
+音楽 Enigmatic Societyのアルバムを聴いた</description>
     </item>
     
     <item>
