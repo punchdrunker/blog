@@ -6,7 +6,23 @@
     <description>Recent content on punchdrunker.log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 25 Aug 2023 23:57:13 +0900</lastBuildDate><atom:link href="https://punchdrunker.tokyo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Aug 2023 22:08:35 +0900</lastBuildDate><atom:link href="https://punchdrunker.tokyo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日報 - 2023年8月29日</title>
+      <link>https://punchdrunker.tokyo/post/2023-08-29/</link>
+      <pubDate>Tue, 29 Aug 2023 22:08:35 +0900</pubDate>
+      
+      <guid>https://punchdrunker.tokyo/post/2023-08-29/</guid>
+      <description>開発 AndroidのコードレビューをいくつかしながらiOSのbitriseの設定変更にチャレンジ。
+iOS XCodeのアップデート対応。パッケージマネジメントシステムが複数あるとキャッシュのクリアにも一苦労で全然問題が解決しなかった。
+Android 金曜日のイベントで登壇するので資料を作らないといけないけれど、まだ一文字も書けていない。
+雑用 メール連絡が必要なお仕事がいくつかあるけど、案の定1件ミスって打ち合わせの時間を30分間違えていて、時間に遅れてしまってお詫びした。
+料理 ひさしぶりに近所の馴染みの鮨屋でランチ。大将の子とうちの子の誕生日が10日違いなので、子どもの食べ物の話などをした。帰りに海苔の端材をお土産にもらった。おそらく軍艦とかに切った海苔の余り。
+子の夕飯は鮭フレーク+米+もらった海苔で小さな鮭おにぎりを錬成した。主菜は鶏もも肉と余り野菜で鶏じゃがを薄味で作り、家族で同じものを食べた。子はどちらも気に入ったらしく美味しそうに食べていた。
+映画 9/1からウェス アンダーソンの新作「アステロイド シティ」が公開。
+9/22からは「ジョン・ウィック：コンセクエンス」が公開される。</description>
+    </item>
+    
     <item>
       <title>日報 - 2023年8月25日</title>
       <link>https://punchdrunker.tokyo/post/2023-08-25/</link>
