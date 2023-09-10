@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on punchdrunker.log</title>
+    <link>https://punchdrunker.tokyo/tags/music/</link>
+    <description>Recent content in music on punchdrunker.log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 10 Sep 2023 23:56:43 +0900</lastBuildDate><atom:link href="https://punchdrunker.tokyo/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>近況 - 2023年9月10日</title>
+      <link>https://punchdrunker.tokyo/post/2023-09-10/</link>
+      <pubDate>Sun, 10 Sep 2023 23:56:43 +0900</pubDate>
+      
+      <guid>https://punchdrunker.tokyo/post/2023-09-10/</guid>
+      <description>採用関連の事務とかDroidKaigi関連でバタバタしていた。
+shibuya.apkの登壇もあったので、調べものをしたりした。AndroidStudio Hedgehogの新機能をまとめた
+個人的に気になったのは以下4つくらい。
+Device mirroring Compose state information in debugg Embedded Layout Inspector [Windows-only] Minimize the impact of antivirus software on build speed 先週末は友達の結婚式2次会参加。この日は5月に当選していた佐野元春のライブだったが泣く泣くリリース。ぴあの取り扱いだったので初めてリセール機能を使ってみた。人気公演だったので、即日成立した。銀行入金までは12日くらい掛かった。
+月曜の朝に子が嘔吐したので、保育園、仕事を休みにして病院に連れていった。夕方にちょっと微熱があったが、翌日はケロっとしていたので登園。2日後に自分も風邪を引いて久しぶりに38度くらいの発熱。
+一昨日は奥さんに子を任せて、友達とブルーノート東京のMike Sternのライブを観に行った。
+ピッキングの際の右手首が妙に浮いていたので、気になって調べてみたら2016年に両腕を骨折したせいでフォームが変わってしまったようだった。
+初めてMike Sternの演奏を聞いたのは大学1年の時にジャズ研の部室で先輩がVHSで流していたBrecker Brothersの復活ライブのSong for Barryだった。テレキャスをチョーキングしまくるソロにいたく感銘を受けてしまって、ずっとライブに行ってみたいと思っているうちに20年以上経ってしまっていた。
+日曜は3家族連れでよみうりランドのプールに行ってきた。年内最終営業日だった。帰り際、顔まで毛布で覆われた人がライフセーバーに担架で運ばれていて怖かった。</description>
+    </item>
+    
+  </channel>
+</rss>
