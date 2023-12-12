@@ -5,6 +5,7 @@
     <link>https://punchdrunker.tokyo/categories/</link>
     <description>Recent content in Categories on punchdrunker.log</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://punchdrunker.tokyo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <atom:link href="https://punchdrunker.tokyo/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

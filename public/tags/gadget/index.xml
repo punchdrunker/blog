@@ -6,32 +6,21 @@
     <description>Recent content in gadget on punchdrunker.log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 25 Aug 2023 23:57:13 +0900</lastBuildDate><atom:link href="https://punchdrunker.tokyo/tags/gadget/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Aug 2023 23:57:13 +0900</lastBuildDate>
+    <atom:link href="https://punchdrunker.tokyo/tags/gadget/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日報 - 2023年8月25日</title>
       <link>https://punchdrunker.tokyo/post/2023-08-25/</link>
       <pubDate>Fri, 25 Aug 2023 23:57:13 +0900</pubDate>
-      
       <guid>https://punchdrunker.tokyo/post/2023-08-25/</guid>
-      <description>開発 Android ひたすらモジュール整理した。
-Shibuya.apkの登壇申し込みしたのでネタをちょっと考えたけど、あまり方向性だけ決めてまだ何も進んでない。
-その他 色々な人と会う予定を消化した。そして今週は雑用多め。
-雑感 今週はGalaxy Z Fold5 / Flip5 が発表されたので、ちょっと気になるな〜と思いながら予約には至っていない。Foldable端末があると外出先で子にYoutubeを見せる時に安定してテーブルの上に置けるのですごく便利なので、いずれかのサイズのFoldable端末があると便利なんだよな。</description>
+      <description>開発 Android ひたすらモジュール整理した。&#xA;Shibuya.apkの登壇申し込みしたのでネタをちょっと考えたけど、あまり方向性だけ決めてまだ何も進んでない。&#xA;その他 色々な人と会う予定を消化した。そして今週は雑用多め。&#xA;雑感 今週はGalaxy Z Fold5 / Flip5 が発表されたので、ちょっと気になるな〜と思いながら予約には至っていない。Foldable端末があると外出先で子にYoutubeを見せる時に安定してテーブルの上に置けるのですごく便利なので、いずれかのサイズのFoldable端末があると便利なんだよな。</description>
     </item>
-    
     <item>
       <title>Ryzen 5900X と RTX 3080でゲーミングPCを組んだ</title>
       <link>https://punchdrunker.tokyo/post/building-gaming-pc/</link>
       <pubDate>Sat, 26 Dec 2020 10:30:00 +0900</pubDate>
-      
       <guid>https://punchdrunker.tokyo/post/building-gaming-pc/</guid>
-      <description>こんにちは、@punchdrunkerです。4年ぶりにPC組んだら浦島太郎過ぎたので振り返りを書いていきます。
-これまではIntelチップでしかPC組んだことなかったのですが、最近はAMDが人気なので勢いで5900X 買ってみました。サムネはRTX 2080ですが、色々あって最後は RTX 3080を使ってます。
-実際の様子 ためしに組立てるところを撮影して6倍速でまとめてみました。カメラはsonyのa7r2で撮影してみてわかったけど、照明とレンズを揃えないと微妙。明るいレンズが55mmしかなかったのでセッティングが大変でした。モニタもあると安心。
-買い替える前のマシンスペック 4年前の年末に15万弱で作った気がします。SSD起動のWindowsは今でもそこそこ快適でした。
-CPU: intel core i 7 6700K 4コア 4GHz CPUクーラー: 付属の空冷 グラボ: GTX 1070 マザボ: ASRock Z170 EXTREME 4 メモリ: 16GB2枚(32GB) ストレージ: SSD (Windows)とHDD(Linux)のデュアルブート 電源: 500W PCケース:Cooler Masterの黒いやつ 今回揃えた主要パーツ 以下amazon.co.jpのリンクです。CPUとグラボは秋葉原を歩いてて運が良ければ買えるかも、くらいの入手難易度です。プレミア付いても良ければいつでも買える程度。
-CPU: AMD Ryzen 9 5900X CPUクーラー: MasterLiquid ML360R RGB (簡易水冷) (光る) グラボ: INNO3D RTX 3080 (光る) マザボ: ASRockX570 Taichi Razer edition(光る) メモリ: CORSAIR DDR4-3200MHz 16GBメモリ2枚 (光る) ストレージ: WDのM.2 SSD 2枚で WindowsとLinuxのデュアルブート 電源: Corsair CX750F RGB -Black- 750W (光る) PCケース: Razer Tomahawk (光る) 今回覚えたこと 実は前のマシンのマザボにはM.</description>
+      <description>こんにちは、@punchdrunkerです。4年ぶりにPC組んだら浦島太郎過ぎたので振り返りを書いていきます。&#xA;これまではIntelチップでしかPC組んだことなかったのですが、最近はAMDが人気なので勢いで5900X 買ってみました。サムネはRTX 2080ですが、色々あって最後は RTX 3080を使ってます。&#xA;実際の様子 ためしに組立てるところを撮影して6倍速でまとめてみました。カメラはsonyのa7r2で撮影してみてわかったけど、照明とレンズを揃えないと微妙。明るいレンズが55mmしかなかったのでセッティングが大変でした。モニタもあると安心。&#xA;買い替える前のマシンスペック 4年前の年末に15万弱で作った気がします。SSD起動のWindowsは今でもそこそこ快適でした。&#xA;CPU: intel core i 7 6700K 4コア 4GHz CPUクーラー: 付属の空冷 グラボ: GTX 1070 マザボ: ASRock Z170 EXTREME 4 メモリ: 16GB2枚(32GB) ストレージ: SSD (Windows)とHDD(Linux)のデュアルブート 電源: 500W PCケース:Cooler Masterの黒いやつ 今回揃えた主要パーツ 以下amazon.co.jpのリンクです。CPUとグラボは秋葉原を歩いてて運が良ければ買えるかも、くらいの入手難易度です。プレミア付いても良ければいつでも買える程度。&#xA;CPU: AMD Ryzen 9 5900X CPUクーラー: MasterLiquid ML360R RGB (簡易水冷) (光る) グラボ: INNO3D RTX 3080 (光る) マザボ: ASRockX570 Taichi Razer edition(光る) メモリ: CORSAIR DDR4-3200MHz 16GBメモリ2枚 (光る) ストレージ: WDのM.2 SSD 2枚で WindowsとLinuxのデュアルブート 電源: Corsair CX750F RGB -Black- 750W (光る) PCケース: Razer Tomahawk (光る) 今回覚えたこと 実は前のマシンのマザボにはM.</description>
     </item>
-    
   </channel>
 </rss>
