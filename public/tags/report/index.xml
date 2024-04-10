@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Report on punchdrunker.log</title>
-    <link>http://localhost:1313/tags/report/</link>
+    <link>https://punchdrunker.tokyo/tags/report/</link>
     <description>Recent content in Report on punchdrunker.log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 10 Apr 2024 09:47:27 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://punchdrunker.tokyo/tags/report/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年 やめたこと はじめたこと</title>
-      <link>http://localhost:1313/post/2024-04-10/</link>
+      <link>https://punchdrunker.tokyo/post/2024-04-10/</link>
       <pubDate>Wed, 10 Apr 2024 09:47:27 +0900</pubDate>
-      <guid>http://localhost:1313/post/2024-04-10/</guid>
+      <guid>https://punchdrunker.tokyo/post/2024-04-10/</guid>
       <description>aa2024年も3ヶ月が過ぎ、残り9ヶ月となりましたが、いかがお過ごしでしょうか?今年は転職の前後で色々なことがあったので記録に残しておこうと思います。&#xA;やめたこと MIXIで働くのをやめた 12年間働いたMIXIという会社を辞めました。1月末退社だったはず。&#xA;12月上旬から有給消化し始めたので、転職のきっかけとかはもう昔のこと過ぎて詳細を覚えていないですが、おおよその理由として、ここ1、2年はドル円の為替相場もガラっと変わってきたので、一旦給与も上げとかないとね、っていう事で転職しました。趣味のものが海外製品だったり、海外のサイトからドル建てで買い物する事がよくあるので、為替の変動はもろに影響を受けました。ドルが1.3倍になったので、収入も1.3倍以上にする必要があるということです。&#xA;MIXIはオフィスにブッフェ形式の社食があって、大変良い職場でした。&#xA;あと転職後に「みてねでアプリ開発してました」と言うと多くの人々に感謝されるので、キャリアパスとしてはかなりおすすめです。&#xA;スマホで X を見るのを辞めた。 アプリを開いている間、よくわからない人達が騒いだり、謎の嘘広告や価値の無い沢山の情報を見せられるのはあまり気持の良いものではないので、Blueskyに引っ越しました。&#xA;ただ、友達との連絡に使うことはあるので、アカウント削除するほどでも無いかなと思い、スマホからXアプリを削除するだけに留めました。 PCのブラウザから閲覧することは日に2回ほど、3ページ分くらいスクロールしてみる程度です。投稿はせず、ほぼread onlyな状態で運用しています。&#xA;はじめたこと メルペイで働き始めた そのままですが、メルペイでAndroidアプリの開発をしています。元々知り合いも多いですし、まあ予想してた感じの環境だな、というところでしょうか。お察しください。&#xA;副業でPIVOTのAndroidアプリ開発 有給消化期間中にXで暇だなぁ、とつぶやいていたら知り合いが紹介してくれました。Androidエンジニアを絶賛採用中なので、興味ある人はこちらをどうぞ。&#xA;https://hrmos.co/pages/pivot/jobs/0000010&#xA;筋トレを始めた 子の世話などで体を使う事が増えたのと、肩こりなどが気になったので、初めてパーソナルトレーナー付きのジムの契約をしました。1月から週2回くらいのペースで続けていますが、あまり体が変わった実感は無いです。強いて言えば疲れにくくなったかも。</description>
     </item>
     <item>
       <title>HHKB Studioを使ってみた</title>
-      <link>http://localhost:1313/post/2023-12-04/</link>
+      <link>https://punchdrunker.tokyo/post/2023-12-04/</link>
       <pubDate>Mon, 04 Dec 2023 23:13:25 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-12-04/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-12-04/</guid>
       <description>10月末に出たHHKB Studioが気になっていた。在庫は無いが、メルカリの値段も下がってきて、ほぼ定価くらいで買えるようになったので買ってみた。&#xA;HHKBとの出会い 初めて買ったHHKBはHHKB Pro 墨 無刻印だった。2006年くらいで、エンジニアになる前だった。ゲーム好きの中学からの友達がキーボードにハマっており、メカニカルスイッチや静電容量無接点方式などについて熱く語っていた記憶があり、つられて自分も買ってしまった。このモデルは今でも所有しており、若干キーがヘタってきた感じはあるが、動作に問題は無い。&#xA;以来17年間、HHKB ProとHybrid Type-Sを使用している。たまに左右分割のものを使ったり、HHKB 2台を使って、分割キーボード風に使っていた時期もあったが、今は普通に1台で使っている。&#xA;HHKB Studioの使用感 電池入れなくても重いので安定感がある(840g) これまで使っていたトラックボールが不要になったので、机が広くなった 打鍵感がかなり良い タイプ音は普通のメカニカルよりは静か ポインティングスティックがあるので、H をタイプするとたまに指が引っ掛かる G, H, Bに接しているので、しょうがない ジェスチャーパッド壊れてる?と思うくらい感度が悪い ジェスチャーパッドの使いどころがわからない(多分設定すると便利かもしれないが、面倒) キーマップ変更ツールのUIが直感的でなく、使いずらいが、その内慣れそう まとめ これまでのHHKBとは全くの別物だと思う。新しいキーボードを使ってみたい人にはおすすめ。</description>
     </item>
     <item>
       <title>近況 - 2023年9月10日</title>
-      <link>http://localhost:1313/post/2023-09-10/</link>
+      <link>https://punchdrunker.tokyo/post/2023-09-10/</link>
       <pubDate>Sun, 10 Sep 2023 23:56:43 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-09-10/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-09-10/</guid>
       <description>採用関連の事務とかDroidKaigi関連でバタバタしていた。&#xA;shibuya.apkの登壇もあったので、調べものをしたりした。AndroidStudio Hedgehogの新機能をまとめた&#xA;個人的に気になったのは以下4つくらい。&#xA;Device mirroring Compose state information in debugg Embedded Layout Inspector [Windows-only] Minimize the impact of antivirus software on build speed 先週末は友達の結婚式2次会参加。この日は5月に当選していた佐野元春のライブだったが泣く泣くリリース。ぴあの取り扱いだったので初めてリセール機能を使ってみた。人気公演だったので、即日成立した。銀行入金までは12日くらい掛かった。&#xA;月曜の朝に子が嘔吐したので、保育園、仕事を休みにして病院に連れていった。夕方にちょっと微熱があったが、翌日はケロっとしていたので登園。2日後に自分も風邪を引いて久しぶりに38度くらいの発熱。&#xA;一昨日は奥さんに子を任せて、友達とブルーノート東京のMike Sternのライブを観に行った。&#xA;ピッキングの際の右手首が妙に浮いていたので、気になって調べてみたら2016年に両腕を骨折したせいでフォームが変わってしまったようだった。&#xA;初めてMike Sternの演奏を聞いたのは大学1年の時にジャズ研の部室で先輩がVHSで流していたBrecker Brothersの復活ライブのSong for Barryだった。テレキャスをチョーキングしまくるソロにいたく感銘を受けてしまって、ずっとライブに行ってみたいと思っているうちに20年以上経ってしまっていた。&#xA;日曜は3家族連れでよみうりランドのプールに行ってきた。年内最終営業日だった。帰り際、顔まで毛布で覆われた人がライフセーバーに担架で運ばれていて怖かった。</description>
     </item>
     <item>
       <title>日報 - 2023年8月30日</title>
-      <link>http://localhost:1313/post/2023-08-30/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-30/</link>
       <pubDate>Wed, 30 Aug 2023 20:58:44 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-30/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-30/</guid>
       <description>開発 iOS Swift 5.8.1に上がったことでSourceryまわりでエラーが起きて面倒な感じになってきた。&#xA;登壇資料 進捗ありません&#xA;生活 腰痛と肩凝りが辛くて、6月くらいからカイロプラクティックに通い始めた。最初は隔週で通い、最近は1ヶ月に1度のペースで通っている。&#xA;腰痛はほとんど改善し、首まわりがポキポキ音がしたり肩凝りしたりという症状がちょっと改善してきた。&#xA;将来 キャリアパスとは何なのだろうか。これまでずっとエンジニアとして働いてきたけど、エンジニアとして働くことを目的としているわけではないので、違う職種でもいいはずなのだけど、市場の需給バランス的にエンジニアを続けた方が収入を高く維持できる、みたいな状況が続いているので、惰性でやっている気もする。&#xA;ジョブチェンするにしても、「元エンジニアです」みたいな自己アピールすることでレゾンデートル保ってるおじさんにだけはなりたくないな、と思って日々過ごしています。</description>
     </item>
     <item>
       <title>日報 - 2023年8月29日</title>
-      <link>http://localhost:1313/post/2023-08-29/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-29/</link>
       <pubDate>Tue, 29 Aug 2023 22:08:35 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-29/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-29/</guid>
       <description>開発 AndroidのコードレビューをいくつかしながらiOSのbitriseの設定変更にチャレンジ。&#xA;iOS XCodeのアップデート対応。パッケージマネジメントシステムが複数あるとキャッシュのクリアにも一苦労で全然問題が解決しなかった。&#xA;Android 金曜日のイベントで登壇するので資料を作らないといけないけれど、まだ一文字も書けていない。&#xA;雑用 メール連絡が必要なお仕事がいくつかあるけど、案の定1件ミスって打ち合わせの時間を30分間違えていて、時間に遅れてしまってお詫びした。&#xA;料理 ひさしぶりに近所の馴染みの鮨屋でランチ。大将の子とうちの子の誕生日が10日違いなので、子どもの食べ物の話などをした。帰りに海苔の端材をお土産にもらった。おそらく軍艦とかに切った海苔の余り。&#xA;子の夕飯は鮭フレーク+米+もらった海苔で小さな鮭おにぎりを錬成した。主菜は鶏もも肉と余り野菜で鶏じゃがを薄味で作り、家族で同じものを食べた。子はどちらも気に入ったらしく美味しそうに食べていた。&#xA;映画 9/1からウェス アンダーソンの新作「アステロイド シティ」が公開。&#xA;9/22からは「ジョン・ウィック：コンセクエンス」が公開される。</description>
     </item>
     <item>
       <title>日報 - 2023年8月25日</title>
-      <link>http://localhost:1313/post/2023-08-25/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-25/</link>
       <pubDate>Fri, 25 Aug 2023 23:57:13 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-25/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-25/</guid>
       <description>開発 Android ひたすらモジュール整理した。&#xA;Shibuya.apkの登壇申し込みしたのでネタをちょっと考えたけど、あまり方向性だけ決めてまだ何も進んでない。&#xA;その他 色々な人と会う予定を消化した。そして今週は雑用多め。&#xA;雑感 今週はGalaxy Z Fold5 / Flip5 が発表されたので、ちょっと気になるな〜と思いながら予約には至っていない。Foldable端末があると外出先で子にYoutubeを見せる時に安定してテーブルの上に置けるのですごく便利なので、いずれかのサイズのFoldable端末があると便利なんだよな。</description>
     </item>
     <item>
       <title>日報 - 2023年8月23日</title>
-      <link>http://localhost:1313/post/2023-08-23/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-23/</link>
       <pubDate>Thu, 24 Aug 2023 00:03:15 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-23/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-23/</guid>
       <description>開発 Android 再発防止できなそうな地雷を踏んでしまいhotfixリリース。&#xA;雑感としてはストレージアクセスも非同期必須にしないとなぁというところ。Androidアプリではメインスレッドでネットワーク通信すると例外をthrowしてくれるけど、ストレージアクセスはそうではないので、同様にしてほしい気はする。&#xA;モジュール整理で色々なところから参照されているクラスをモジュール移動したら案の定、芋蔓式に他のクラスもモジュール移動が必要になる。1クラスのモジュール移動のために3つ4つのPR作るのが当たり前な感じに。&#xA;課外活動 アルバイト採用のためのコードレビューや諸連絡など。&#xA;料理 友達が田舎から送られてきたとかいうとうもろこしを3本ほど使ってポタージュにした。半分冷凍して、半分は冷蔵ですぐに食べられるように保存。&#xA;3000円くらいの良いオリーブオイルと、マルドンの塩、ブラックペッパーを振ると良い感じの一品になる。</description>
     </item>
     <item>
       <title>日報 - 2023年8月18日</title>
-      <link>http://localhost:1313/post/2023-08-18/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-18/</link>
       <pubDate>Fri, 18 Aug 2023 23:12:34 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-18/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-18/</guid>
       <description>開発 Android ひたすらマルチモジュール対応をした。&#xA;strings.xmlを参照するクラスのルールをまだあまり決めていなくて、featureモジュールとcoer:uiだけはstrings.xmlを持たせても良いのかなー、などと悩んだ。翻訳ツールとの連携があるので、あまりxmlが増えるのは嬉しくない。&#xA;音楽 Enigmatic Societyのアルバムを聴いた</description>
     </item>
     <item>
       <title>日報 - 2023年8月15日</title>
-      <link>http://localhost:1313/post/2023-08-15/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-15/</link>
       <pubDate>Tue, 15 Aug 2023 23:51:52 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-15/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-15/</guid>
       <description>開発 Android コードレビューしようとしたら色々既存課題を思い出してしまい、とりとめもなく調べものをした。&#xA;最近はモジュール分割のPRが多めなのでコンフリクトも発生しやすく、つらさが増してきている。&#xA;また今週はKotlin(not Android)のコーディング課題の評価のために久しぶりにIntelliJを使っているけど、新しいUIが良い感じだなと思って、もしかしたらAndrdoid Studioでも使える?と思って環境設定を開いたらNew UIというbeta機能の設定があって、有効にすると同じテイストのUIになった。7月末のリリースから使えるようになったらしい&#xA;酒 いつものように2本くらい日本酒を買おうかと思い、近所の酒屋に行ったら鳳凰美田の米光2本セットと田酒 特別純米があったので、3本買ってしまった。日本酒を買いすぎるのは(健康に)良くないと思い、店のポイントカードを作るのも控えているくらいなのだが、こういう日もある。</description>
     </item>
     <item>
       <title>日報 - 2023年8月14日</title>
-      <link>http://localhost:1313/post/2023-08-14/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-14/</link>
       <pubDate>Mon, 14 Aug 2023 21:41:08 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-14/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-14/</guid>
       <description>開発 Android 自分では先週画面実装したところの細かい調整をしたくらいで、あとは人のPRをいくつかコードレビューした。&#xA;その他 アルバイト採用試験のコーディング課題の動作確認、コードレビュー、評価をした。提出してもらった回答は基本的に全てレビュー結果をフィードバックするようにしているので、なかなか時間を使う。そして、会ったことが無い人へのフィードバックの仕方などはとても気を遣う。&#xA;雑用 福利厚生系の申請をやった。偉い。&#xA;体重 ここ4ヶ月ほどで8キロくらい痩せたが、3連休で1キロほどリバウンド。かなり飲み食いした自覚もあるので、納得。&#xA;これまでの4ヶ月の食事は基本炭水化物抜きで、たまに麺類食べたりはしてたが、連日じゃなければ問題無かった。あと、毎朝トイレの後に決まって体重を測るのも重要。&#xA;基本的な食事のパターンは、朝食に野菜と卵とソーセージ、チーズなど。昼食はなるべく社食のビュッフェで野菜と肉と魚。毎日ブロッコリーにカレーを掛けて食べている。夕飯は自炊で煮物系やステーキ、クックドゥの炒めものなどと豆腐などを適当に食べている。お気に入りは麻婆茄子と回鍋肉。</description>
     </item>
     <item>
       <title>2023年8月13日記す</title>
-      <link>http://localhost:1313/post/2023-08-13/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-13/</link>
       <pubDate>Sun, 13 Aug 2023 22:46:21 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-13/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-13/</guid>
       <description>お盆は特に有給を使ったりしていないので、普通の3連休を過ごした。&#xA;外出 3日とも家族で何かしら外出した。&#xA;地域の大きめの公園のじゃぶじゃぶ池 CHUMSのサンシェードを持って行った。池の水はほぼ温水。体力が削られた。 お台場のThe Kids たくさん子どもがいてすごかった。 マクセルアクアパーク品川 (水族館) めちゃくちゃ人間がいてすごかった。品プリの宿泊客が外出せずに遊べるから重宝しているんだろうなという感じ。 料理 一番よく使うペティナイフを1000番と6000番で研いだ。切れ味が復活して、トマトを切るのが楽しい。&#xA;ここ最近の朝食は決まって、ブロッコリーを茹でたやつ、きゅうり、トマト、目玉焼きとジョンソンヴィルのソーセージを食べる。&#xA;また、最近は賛否両論のyoutube動画のレシピが結構気にいっていてよく参考にする。&#xA;すっぱいのが好きなので、蛇腹きゅうり を今週2回作った。家飲みでも好評で、あっという間に3本漬けたのが無くなった。&#xA;子ども向けの定番はコーンポタージュ。野菜の形が残っていると避けられたりするので、とうもろこしと玉ねぎと牛乳だけで作るコーンポタージュは便利である。大人が食べる時は塩と胡椒とオリーブオイルをかければ立派なひと皿になる。最初は裏ごししていたが、さすがに時間を取られるので、ハンドミキサーでつぶすだけにした。とうもろこし以外にもかぼちゃやさつまいもなどで類似のメニューを簡単に作ることができるので良い。&#xA;酒 近所のワイン屋で薦めてもらった カーヴ ド リュニー クレマン ド ブルゴーニュ ブラン ド ブラン ブリュット が良かった。どこか特定のドメーヌという訳ではなく、地元の生産者協同組合が作っているワインらしい。&#xA;カヴァもクレマンもピンキリで、美味しいやつを探すのは結構大変。今どき3000円台で買える美味しい泡はかなり貴重。</description>
     </item>
     <item>
       <title>日報 - 2023年8月10日</title>
-      <link>http://localhost:1313/post/daily-report-2023-08-10/</link>
+      <link>https://punchdrunker.tokyo/post/daily-report-2023-08-10/</link>
       <pubDate>Thu, 10 Aug 2023 17:04:54 +0900</pubDate>
-      <guid>http://localhost:1313/post/daily-report-2023-08-10/</guid>
+      <guid>https://punchdrunker.tokyo/post/daily-report-2023-08-10/</guid>
       <description>開発 Rails 隔週で行っているチームみんなで参加するextreme fishbowl(モブプロ)でAPIを改修するタスクをやった。&#xA;Android, iOS, Railsの順で回しており、今日はRailsの日。&#xA;TDDで進めたが、今日はちょっと進行がグダついたかもしれないと反省。&#xA;Android まだAGP 8.0を利用しているので、AGP8.1に上げるための調査。 kotlinはまだ1.7系。&#xA;lifecycle 2.6以上にした方がよさそうで、Transformations.map / switchMapが廃止になっていたので、Observableの拡張関数に置き換え。 なぜかKotlin 1.7.22と1.8.10が混在することになってしまい、excludeなど試したがうまくいかず、更新自体は先送り。AGP8.1にする時に同時にlifecycleも2.6.1に上げることにした。&#xA;ObserberのonChangedの引数がnon-nullになったため、既存のクラスでちょっと面倒が起きたが雑に回避。&#xA;コードレビューをいくつか見た。&#xA;雑用 採用関連でメール連絡 立替精算の申請 私用 保育園の継続のために、年に一度提出する勤務証明書を会社に発行申請。 保育園の8月の食事の献立を印刷(子どもの夕飯を用意するにあたって、昼に何食べてるかを把握しておきたい) </description>
     </item>
   </channel>
