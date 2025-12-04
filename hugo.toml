@@ -8,3 +8,4 @@ googleAnalytics = 'G-S19W8CQGEE'
   twitter = 'punchdrunker'
   github = 'punchdrunker'
   rss = true
+  disqusShortname = ''
