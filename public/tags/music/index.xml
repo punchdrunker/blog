@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on punchdrunker.log</title>
-    <link>http://localhost:1313/tags/music/</link>
+    <link>https://punchdrunker.tokyo/tags/music/</link>
     <description>Recent content in Music on punchdrunker.log</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 10 Sep 2023 23:56:43 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://punchdrunker.tokyo/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>近況 - 2023年9月10日</title>
-      <link>http://localhost:1313/post/2023-09-10/</link>
+      <link>https://punchdrunker.tokyo/post/2023-09-10/</link>
       <pubDate>Sun, 10 Sep 2023 23:56:43 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-09-10/</guid>
-      <description>&lt;p&gt;採用関連の事務とかDroidKaigi関連でバタバタしていた。&lt;/p&gt;&#xA;&lt;p&gt;shibuya.apkの登壇もあったので、調べものをしたりした。&lt;a href=&#34;https://www.notion.so/shibuya-apk-44-aad97383819b42cd938940a256cbaece?pvs=4&#34;&gt;AndroidStudio Hedgehogの新機能をまとめた&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;個人的に気になったのは以下4つくらい。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Device mirroring&lt;/li&gt;&#xA;&lt;li&gt;Compose state information in debugg&lt;/li&gt;&#xA;&lt;li&gt;Embedded Layout Inspector&lt;/li&gt;&#xA;&lt;li&gt;[Windows-only] Minimize the impact of antivirus software on build speed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;先週末は友達の結婚式2次会参加。この日は5月に当選していた&lt;a href=&#34;https://natalie.mu/music/news/539757&#34;&gt;佐野元春のライブ&lt;/a&gt;だったが泣く泣くリリース。ぴあの取り扱いだったので初めてリセール機能を使ってみた。人気公演だったので、即日成立した。銀行入金までは12日くらい掛かった。&lt;/p&gt;&#xA;&lt;p&gt;月曜の朝に子が嘔吐したので、保育園、仕事を休みにして病院に連れていった。夕方にちょっと微熱があったが、翌日はケロっとしていたので登園。2日後に自分も風邪を引いて久しぶりに38度くらいの発熱。&lt;/p&gt;&#xA;&lt;p&gt;一昨日は奥さんに子を任せて、友達とブルーノート東京の&lt;a href=&#34;https://musicguide.jp/information/46660/&#34;&gt;Mike Sternのライブ&lt;/a&gt;を観に行った。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/mike-stern.jpg&#34; alt=&#34;mike stern + jeff lorber&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ピッキングの際の右手首が妙に浮いていたので、気になって調べてみたら2016年に&lt;a href=&#34;https://www.arban-mag.com/article/3900&#34;&gt;両腕を骨折した&lt;/a&gt;せいでフォームが変わってしまったようだった。&lt;/p&gt;&#xA;&lt;p&gt;初めてMike Sternの演奏を聞いたのは大学1年の時にジャズ研の部室で先輩がVHSで流していた&lt;a href=&#34;https://www.youtube.com/watch?v=ZdNX9Hm4ISI&#34;&gt;Brecker Brothersの復活ライブのSong for Barry&lt;/a&gt;だった。テレキャスをチョーキングしまくるソロにいたく感銘を受けてしまって、ずっとライブに行ってみたいと思っているうちに20年以上経ってしまっていた。&lt;/p&gt;&#xA;&lt;p&gt;日曜は3家族連れでよみうりランドのプールに行ってきた。年内最終営業日だった。帰り際、顔まで毛布で覆われた人がライフセーバーに担架で運ばれていて怖かった。&lt;/p&gt;</description>
+      <guid>https://punchdrunker.tokyo/post/2023-09-10/</guid>
+      <description>&lt;p&gt;採用関連の事務とかDroidKaigi関連でバタバタしていた。&lt;/p&gt;&#xA;&lt;p&gt;shibuya.apkの登壇もあったので、調べものをしたりした。&lt;a href=&#34;https://www.notion.so/shibuya-apk-44-aad97383819b42cd938940a256cbaece?pvs=4&#34;&gt;AndroidStudio Hedgehogの新機能をまとめた&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;個人的に気になったのは以下4つくらい。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Device mirroring&lt;/li&gt;&#xA;&lt;li&gt;Compose state information in debugg&lt;/li&gt;&#xA;&lt;li&gt;Embedded Layout Inspector&lt;/li&gt;&#xA;&lt;li&gt;[Windows-only] Minimize the impact of antivirus software on build speed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;先週末は友達の結婚式2次会参加。この日は5月に当選していた&lt;a href=&#34;https://natalie.mu/music/news/539757&#34;&gt;佐野元春のライブ&lt;/a&gt;だったが泣く泣くリリース。ぴあの取り扱いだったので初めてリセール機能を使ってみた。人気公演だったので、即日成立した。銀行入金までは12日くらい掛かった。&lt;/p&gt;&#xA;&lt;p&gt;月曜の朝に子が嘔吐したので、保育園、仕事を休みにして病院に連れていった。夕方にちょっと微熱があったが、翌日はケロっとしていたので登園。2日後に自分も風邪を引いて久しぶりに38度くらいの発熱。&lt;/p&gt;&#xA;&lt;p&gt;一昨日は奥さんに子を任せて、友達とブルーノート東京の&lt;a href=&#34;https://musicguide.jp/information/46660/&#34;&gt;Mike Sternのライブ&lt;/a&gt;を観に行った。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://punchdrunker.tokyo/mike-stern.jpg&#34; alt=&#34;mike stern + jeff lorber&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ピッキングの際の右手首が妙に浮いていたので、気になって調べてみたら2016年に&lt;a href=&#34;https://www.arban-mag.com/article/3900&#34;&gt;両腕を骨折した&lt;/a&gt;せいでフォームが変わってしまったようだった。&lt;/p&gt;&#xA;&lt;p&gt;初めてMike Sternの演奏を聞いたのは大学1年の時にジャズ研の部室で先輩がVHSで流していた&lt;a href=&#34;https://www.youtube.com/watch?v=ZdNX9Hm4ISI&#34;&gt;Brecker Brothersの復活ライブのSong for Barry&lt;/a&gt;だった。テレキャスをチョーキングしまくるソロにいたく感銘を受けてしまって、ずっとライブに行ってみたいと思っているうちに20年以上経ってしまっていた。&lt;/p&gt;&#xA;&lt;p&gt;日曜は3家族連れでよみうりランドのプールに行ってきた。年内最終営業日だった。帰り際、顔まで毛布で覆われた人がライフセーバーに担架で運ばれていて怖かった。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

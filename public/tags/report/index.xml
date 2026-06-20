@@ -2,94 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Report on punchdrunker.log</title>
-    <link>http://localhost:1313/tags/report/</link>
+    <link>https://punchdrunker.tokyo/tags/report/</link>
     <description>Recent content in Report on punchdrunker.log</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 10 Apr 2024 09:47:27 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jun 2026 11:12:00 +0900</lastBuildDate>
+    <atom:link href="https://punchdrunker.tokyo/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>近頃</title>
+      <link>https://punchdrunker.tokyo/post/2026-06-20/</link>
+      <pubDate>Sat, 20 Jun 2026 11:12:00 +0900</pubDate>
+      <guid>https://punchdrunker.tokyo/post/2026-06-20/</guid>
+      <description>&lt;p&gt;会社の日報を書いて満足してしまい、やはりブログを続けるのは難しい。&lt;/p&gt;&#xA;&lt;h1 id=&#34;最近のトピック&#34;&gt;最近のトピック&lt;/h1&gt;&#xA;&lt;h2 id=&#34;テスラ買うタイミングミスった&#34;&gt;テスラ買うタイミングミスった&lt;/h2&gt;&#xA;&lt;p&gt;後から考えると自分が買ったタイミングが最悪で購入が2ヶ月ずれていれば、補助金が40万円上乗せされてSuper Chargerが3年無料、分割金利も0%、みたいな大キャンペーン状態だった。&lt;/p&gt;&#xA;&lt;p&gt;100万近く損した、と思わなくもないが未来は誰にも予測できないのでしょうがない。&lt;/p&gt;&#xA;&lt;p&gt;株やビットコインではあとNヶ月待ってれば40万円上がっていたのに、みたいなことはよくあるけれど、これはボラティリティの話であり、40万円上がる可能性があるということは40万円下がる可能性もあるという事だ。お金が増えたり減ったりすることに一喜一憂してもしょうがないのである。要は上がったり下がったりするものに囲まれているということだ。&lt;/p&gt;&#xA;&lt;h2 id=&#34;jalのlsp修行関連&#34;&gt;JALのLSP修行関連&lt;/h2&gt;&#xA;&lt;p&gt;継続しているが、仕組み上なかなか一気には貯まらない。&lt;/p&gt;&#xA;&lt;p&gt;ANAの方はかなり大きなルール変更を行なったので界隈はざわついている。&#xA;ざっくり言うと年間300万円以上ANAカード等で決済しないとこれまでのベネフィットが継続できないようになった。&#xA;なので1円でも節約してお得なサービスを受けたいという既存会員からは大ブーイングという感じ。&lt;/p&gt;&#xA;&lt;p&gt;最近の空港のANA/JALラウンジは繁忙期にはキャパ一杯で、リニューアル工事などがあると満席で入れないこともある。利用者を絞ってくれた方が快適なサービスを受けられるので、利用者にもメリットがあると思う。&lt;/p&gt;&#xA;&lt;p&gt;識者の話ではJAL master→ Revolut → ANAペイのルートならある程度のANAペイ決済を行いつつもJALのマイルも貯まるらしい。&lt;/p&gt;&#xA;&lt;p&gt;JAL masterカードから Revolutにチャージすると手数料無料でJALのマイルも貯まるのは現状そうなっているだけで、いつルール変更するかはからない。&lt;/p&gt;&#xA;&lt;p&gt;ANAペイも月のチャージ可能額が10万円上限で、最大チャージ額も30万円というルールがあるっぽいので、お得ではあるがかなり計画的にチャージと利用しなければならない。自分は面倒くさがりなのでチャレンジしないと思うがRevolutは海外での利用が便利そうなので使ってみようと思っている。&lt;/p&gt;&#xA;&lt;h2 id=&#34;筋トレ&#34;&gt;筋トレ&lt;/h2&gt;&#xA;&lt;p&gt;引き続き近所のジムで自主トレを行っている。出来てから1年くらいの新しいジムなので快適で。&lt;/p&gt;&#xA;&lt;h2 id=&#34;英会話&#34;&gt;英会話&lt;/h2&gt;&#xA;&lt;p&gt;引き続き毎週シェーン英会話に通っている。自習する時間をあまり確保できていないので、そこが悩み。&lt;/p&gt;&#xA;&lt;h2 id=&#34;副業&#34;&gt;副業&lt;/h2&gt;&#xA;&lt;p&gt;前回の契約から数ヶ月空いて新規のお仕事をしている。&lt;/p&gt;&#xA;&lt;p&gt;今までとは違いアプリの実装をする仕事ではなく、雑用開発+アプリ開発まわりのコンサルみたいな事をやっている。久しぶりにIT業界ではない人との関わりもあったりして新鮮。&lt;/p&gt;&#xA;&lt;h2 id=&#34;子と楽器の練習&#34;&gt;子と楽器の練習&lt;/h2&gt;&#xA;&lt;p&gt;最近、子がドラムをやってみたいと言うので音楽スタジオに連れていってみた。&lt;/p&gt;&#xA;&lt;p&gt;ドラムはスタジオにあるものを借りる分には安あがりな楽器である。スティックさえ持っていけば音を出すことはできる。ただし子どもの耳には音がうるさすぎるようなので、イヤーマフを買った。(音を防ぐヘッドフォンみたいなやつ)&lt;/p&gt;&#xA;&lt;p&gt;練習というほどの事はしていないが、いきなり8ビートやらせようとしてもすぐ飽きると思うので、ひとまず好きなように叩いてどんなものか触れてみるくらい。&lt;/p&gt;&#xA;&lt;p&gt;ついでに最近練習できていないトランペットや、人からもらったまま全然吹けていないアルトサックスも持ち込んで練習している。&lt;/p&gt;&#xA;&lt;p&gt;また、最近家の近くある自治体運営の施設でも音楽スタジオがかなり格安で利用できることがわかったので、たまに利用しようと思う。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025年やめたことはじめたこと</title>
+      <link>https://punchdrunker.tokyo/post/2025-12-01/</link>
+      <pubDate>Mon, 01 Dec 2025 22:12:00 +0900</pubDate>
+      <guid>https://punchdrunker.tokyo/post/2025-12-01/</guid>
+      <description>&lt;p&gt;すっかりブログの存在を忘れていので、最後に投稿してから1年以上経っていた。2025年も終わりそうなので、前回と似たようなテーマで書いておこう。&lt;/p&gt;&#xA;&lt;h1 id=&#34;始めたこと&#34;&gt;始めたこと&lt;/h1&gt;&#xA;&lt;h2 id=&#34;日報&#34;&gt;日報&lt;/h2&gt;&#xA;&lt;p&gt;今の会社では特に日報を書きましょう、みたいな文化はないのだけど、自主的にやっている。&lt;/p&gt;&#xA;&lt;p&gt;昨日やったこと、今日やること、日々の雑感などを朝に整理してnotionに書いている。一日の終わりにやろうとすると、保育園のお迎えの時間に間に合わなくなったりするので、朝やるようにしている。&lt;/p&gt;&#xA;&lt;p&gt;評価時期などに見返すこともできて便利。&lt;/p&gt;&#xA;&lt;h2 id=&#34;車を買った&#34;&gt;車を買った&lt;/h2&gt;&#xA;&lt;p&gt;結局のところ何で車を買ったのかよくわからないんだけど、とにかく車を買いました。Tesla Model 3です。国のCEV補助金が来年1月で予算消化のために終了するというタイミングと、Super Chargerが意外と身近にあることがわかったので、決断したような。あと自宅マンションの駐車場が空いていて、駐車場代が割と安かったのもあり。&lt;/p&gt;&#xA;&lt;h2 id=&#34;jal&#34;&gt;JAL&lt;/h2&gt;&#xA;&lt;p&gt;JALのロイヤルティプログラムが一新されて、Life Status ポイントを貯める活動が面白そうだったので始めてみた。&lt;/p&gt;&#xA;&lt;h2 id=&#34;mubi&#34;&gt;MUBI&lt;/h2&gt;&#xA;&lt;p&gt;前から気になっていたけど登録せずにいた映画配信サービスのMUBIに登録してみた。日本語字幕はほぼ非対応なんだけど、英語字幕があるので何とかなる。&lt;/p&gt;&#xA;&lt;p&gt;元々英語を頑張ろうと思ったきっかけは英語の映画を字幕なしで見たいなというものだったので、自分には丁度良いサービスだった。&lt;/p&gt;&#xA;&lt;p&gt;Netflixとかと違って、今観れる映画が数十本しかない。ただラインナップがいわゆるミニシアター系のものが充実していたり、日本未公開のものが多いので、結構面白い。&lt;/p&gt;&#xA;&lt;h1 id=&#34;続けていること&#34;&gt;続けていること&lt;/h1&gt;&#xA;&lt;h2 id=&#34;筋トレ&#34;&gt;筋トレ&lt;/h2&gt;&#xA;&lt;p&gt;最初はパーソナルトレーナー通い放題プランみたいのをやっていて、2年くらい経った。マシンの使い方とかもわかってきたので、これまでのジムの契約は終了し、子の保育園近くのジムで登録して、自主トレを行っている。&lt;/p&gt;&#xA;&lt;h2 id=&#34;英会話&#34;&gt;英会話&lt;/h2&gt;&#xA;&lt;p&gt;引き続き毎週シェーン英会話に通っている。&lt;/p&gt;&#xA;&lt;h2 id=&#34;買い物&#34;&gt;買い物&lt;/h2&gt;&#xA;&lt;p&gt;今年は自分でも引くほど服を買った。怖くて計算してない。&lt;/p&gt;&#xA;&lt;h1 id=&#34;やめたこと&#34;&gt;やめたこと&lt;/h1&gt;&#xA;&lt;h2 id=&#34;副業&#34;&gt;副業&lt;/h2&gt;&#xA;&lt;p&gt;やめたというか、契約終了なので一段落。副業してると空き時間がどんどん吸い取られてしまうので、久しぶりに本を読んだり映画を観たりする時間を増やそうと思う。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2024年 やめたこと はじめたこと</title>
-      <link>http://localhost:1313/post/2024-04-10/</link>
+      <link>https://punchdrunker.tokyo/post/2024-04-10/</link>
       <pubDate>Wed, 10 Apr 2024 09:47:27 +0900</pubDate>
-      <guid>http://localhost:1313/post/2024-04-10/</guid>
+      <guid>https://punchdrunker.tokyo/post/2024-04-10/</guid>
       <description>&lt;p&gt;2024年も3ヶ月が過ぎ、残り9ヶ月となりましたが、いかがお過ごしでしょうか?今年は転職の前後で色々なことがあったので記録に残しておこうと思います。&lt;/p&gt;&#xA;&lt;h1 id=&#34;やめたこと&#34;&gt;やめたこと&lt;/h1&gt;&#xA;&lt;h2 id=&#34;mixiで働くのをやめた&#34;&gt;MIXIで働くのをやめた&lt;/h2&gt;&#xA;&lt;p&gt;12年間働いたMIXIという会社を辞めました。1月末退社だったはず。&lt;/p&gt;&#xA;&lt;p&gt;12月上旬から有給消化し始めたので、転職のきっかけとかはもう昔のこと過ぎて詳細を覚えていないですが、おおよその理由として、ここ1、2年はドル円の為替相場もガラっと変わってきたので、一旦給与も上げとかないとね、っていう事で転職しました。趣味のものが海外製品だったり、海外のサイトからドル建てで買い物する事がよくあるので、為替の変動はもろに影響を受けました。ドルが1.3倍になったので、収入も1.3倍以上にする必要があるということです。&lt;/p&gt;&#xA;&lt;p&gt;MIXIはオフィスにブッフェ形式の社食があって、大変良い職場でした。&lt;/p&gt;&#xA;&lt;p&gt;あと転職後に「みてねでアプリ開発してました」と言うと多くの人々に感謝されるので、キャリアパスとしてはかなりおすすめです。&lt;/p&gt;&#xA;&lt;h2 id=&#34;スマホで-x-を見るのを辞めた&#34;&gt;スマホで X を見るのを辞めた。&lt;/h2&gt;&#xA;&lt;p&gt;アプリを開いている間、よくわからない人達が騒いだり、謎の嘘広告や価値の無い沢山の情報を見せられるのはあまり気持の良いものではないので、&lt;a href=&#34;https://bsky.app/profile/nanao-punchdrunker.bsky.social&#34;&gt;Blueskyに引っ越し&lt;/a&gt;ました。&lt;/p&gt;&#xA;&lt;p&gt;ただ、友達との連絡に使うことはあるので、アカウント削除するほどでも無いかなと思い、スマホからXアプリを削除するだけに留めました。&#xA;PCのブラウザから閲覧することは日に2回ほど、3ページ分くらいスクロールしてみる程度です。投稿はせず、ほぼread onlyな状態で運用しています。&lt;/p&gt;&#xA;&lt;h1 id=&#34;はじめたこと&#34;&gt;はじめたこと&lt;/h1&gt;&#xA;&lt;h2 id=&#34;メルペイで働き始めた&#34;&gt;メルペイで働き始めた&lt;/h2&gt;&#xA;&lt;p&gt;そのままですが、メルペイでAndroidアプリの開発をしています。元々知り合いも多いですし、まあ予想してた感じの環境だな、というところでしょうか。お察しください。&lt;/p&gt;&#xA;&lt;h2 id=&#34;副業でpivotのandroidアプリ開発&#34;&gt;副業でPIVOTのAndroidアプリ開発&lt;/h2&gt;&#xA;&lt;p&gt;有給消化期間中にXで暇だなぁ、とつぶやいていたら知り合いが紹介してくれました。Androidエンジニアを絶賛採用中なので、興味ある人はこちらをどうぞ。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://hrmos.co/pages/pivot/jobs/0000010&#34;&gt;https://hrmos.co/pages/pivot/jobs/0000010&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;筋トレを始めた&#34;&gt;筋トレを始めた&lt;/h2&gt;&#xA;&lt;p&gt;子の世話などで体を使う事が増えたのと、肩こりなどが気になったので、初めてパーソナルトレーナー付きのジムの契約をしました。1月から週2回くらいのペースで続けていますが、あまり体が変わった実感は無いです。強いて言えば疲れにくくなったかも。&lt;/p&gt;</description>
     </item>
     <item>
       <title>HHKB Studioを使ってみた</title>
-      <link>http://localhost:1313/post/2023-12-04/</link>
+      <link>https://punchdrunker.tokyo/post/2023-12-04/</link>
       <pubDate>Mon, 04 Dec 2023 23:13:25 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-12-04/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-12-04/</guid>
       <description>&lt;p&gt;10月末に出た&lt;a href=&#34;https://happyhackingkb.com/jp/products/studio/&#34;&gt;HHKB Studio&lt;/a&gt;が気になっていた。在庫は無いが、メルカリの値段も下がってきて、ほぼ定価くらいで買えるようになったので買ってみた。&lt;/p&gt;&#xA;&lt;h2 id=&#34;hhkbとの出会い&#34;&gt;HHKBとの出会い&lt;/h2&gt;&#xA;&lt;p&gt;初めて買ったHHKBはHHKB Pro 墨 無刻印だった。2006年くらいで、エンジニアになる前だった。ゲーム好きの中学からの友達がキーボードにハマっており、メカニカルスイッチや静電容量無接点方式などについて熱く語っていた記憶があり、つられて自分も買ってしまった。このモデルは今でも所有しており、若干キーがヘタってきた感じはあるが、動作に問題は無い。&lt;/p&gt;&#xA;&lt;p&gt;以来17年間、HHKB ProとHybrid Type-Sを使用している。たまに左右分割のものを使ったり、HHKB 2台を使って、分割キーボード風に使っていた時期もあったが、今は普通に1台で使っている。&lt;/p&gt;&#xA;&lt;h2 id=&#34;hhkb-studioの使用感&#34;&gt;HHKB Studioの使用感&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;電池入れなくても重いので安定感がある(840g)&lt;/li&gt;&#xA;&lt;li&gt;これまで使っていたトラックボールが不要になったので、机が広くなった&lt;/li&gt;&#xA;&lt;li&gt;打鍵感がかなり良い&lt;/li&gt;&#xA;&lt;li&gt;タイプ音は普通のメカニカルよりは静か&lt;/li&gt;&#xA;&lt;li&gt;ポインティングスティックがあるので、&lt;code&gt;H&lt;/code&gt; をタイプするとたまに指が引っ掛かる&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;G&lt;/code&gt;, &lt;code&gt;H&lt;/code&gt;, &lt;code&gt;B&lt;/code&gt;に接しているので、しょうがない&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;ジェスチャーパッド壊れてる?と思うくらい感度が悪い&lt;/li&gt;&#xA;&lt;li&gt;ジェスチャーパッドの使いどころがわからない(多分設定すると便利かもしれないが、面倒)&lt;/li&gt;&#xA;&lt;li&gt;キーマップ変更ツールのUIが直感的でなく、使いずらいが、その内慣れそう&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&lt;/h2&gt;&#xA;&lt;p&gt;これまでのHHKBとは全くの別物だと思う。新しいキーボードを使ってみたい人にはおすすめ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>近況 - 2023年9月10日</title>
-      <link>http://localhost:1313/post/2023-09-10/</link>
+      <link>https://punchdrunker.tokyo/post/2023-09-10/</link>
       <pubDate>Sun, 10 Sep 2023 23:56:43 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-09-10/</guid>
-      <description>&lt;p&gt;採用関連の事務とかDroidKaigi関連でバタバタしていた。&lt;/p&gt;&#xA;&lt;p&gt;shibuya.apkの登壇もあったので、調べものをしたりした。&lt;a href=&#34;https://www.notion.so/shibuya-apk-44-aad97383819b42cd938940a256cbaece?pvs=4&#34;&gt;AndroidStudio Hedgehogの新機能をまとめた&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;個人的に気になったのは以下4つくらい。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Device mirroring&lt;/li&gt;&#xA;&lt;li&gt;Compose state information in debugg&lt;/li&gt;&#xA;&lt;li&gt;Embedded Layout Inspector&lt;/li&gt;&#xA;&lt;li&gt;[Windows-only] Minimize the impact of antivirus software on build speed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;先週末は友達の結婚式2次会参加。この日は5月に当選していた&lt;a href=&#34;https://natalie.mu/music/news/539757&#34;&gt;佐野元春のライブ&lt;/a&gt;だったが泣く泣くリリース。ぴあの取り扱いだったので初めてリセール機能を使ってみた。人気公演だったので、即日成立した。銀行入金までは12日くらい掛かった。&lt;/p&gt;&#xA;&lt;p&gt;月曜の朝に子が嘔吐したので、保育園、仕事を休みにして病院に連れていった。夕方にちょっと微熱があったが、翌日はケロっとしていたので登園。2日後に自分も風邪を引いて久しぶりに38度くらいの発熱。&lt;/p&gt;&#xA;&lt;p&gt;一昨日は奥さんに子を任せて、友達とブルーノート東京の&lt;a href=&#34;https://musicguide.jp/information/46660/&#34;&gt;Mike Sternのライブ&lt;/a&gt;を観に行った。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/mike-stern.jpg&#34; alt=&#34;mike stern + jeff lorber&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ピッキングの際の右手首が妙に浮いていたので、気になって調べてみたら2016年に&lt;a href=&#34;https://www.arban-mag.com/article/3900&#34;&gt;両腕を骨折した&lt;/a&gt;せいでフォームが変わってしまったようだった。&lt;/p&gt;&#xA;&lt;p&gt;初めてMike Sternの演奏を聞いたのは大学1年の時にジャズ研の部室で先輩がVHSで流していた&lt;a href=&#34;https://www.youtube.com/watch?v=ZdNX9Hm4ISI&#34;&gt;Brecker Brothersの復活ライブのSong for Barry&lt;/a&gt;だった。テレキャスをチョーキングしまくるソロにいたく感銘を受けてしまって、ずっとライブに行ってみたいと思っているうちに20年以上経ってしまっていた。&lt;/p&gt;&#xA;&lt;p&gt;日曜は3家族連れでよみうりランドのプールに行ってきた。年内最終営業日だった。帰り際、顔まで毛布で覆われた人がライフセーバーに担架で運ばれていて怖かった。&lt;/p&gt;</description>
+      <guid>https://punchdrunker.tokyo/post/2023-09-10/</guid>
+      <description>&lt;p&gt;採用関連の事務とかDroidKaigi関連でバタバタしていた。&lt;/p&gt;&#xA;&lt;p&gt;shibuya.apkの登壇もあったので、調べものをしたりした。&lt;a href=&#34;https://www.notion.so/shibuya-apk-44-aad97383819b42cd938940a256cbaece?pvs=4&#34;&gt;AndroidStudio Hedgehogの新機能をまとめた&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;個人的に気になったのは以下4つくらい。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Device mirroring&lt;/li&gt;&#xA;&lt;li&gt;Compose state information in debugg&lt;/li&gt;&#xA;&lt;li&gt;Embedded Layout Inspector&lt;/li&gt;&#xA;&lt;li&gt;[Windows-only] Minimize the impact of antivirus software on build speed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;先週末は友達の結婚式2次会参加。この日は5月に当選していた&lt;a href=&#34;https://natalie.mu/music/news/539757&#34;&gt;佐野元春のライブ&lt;/a&gt;だったが泣く泣くリリース。ぴあの取り扱いだったので初めてリセール機能を使ってみた。人気公演だったので、即日成立した。銀行入金までは12日くらい掛かった。&lt;/p&gt;&#xA;&lt;p&gt;月曜の朝に子が嘔吐したので、保育園、仕事を休みにして病院に連れていった。夕方にちょっと微熱があったが、翌日はケロっとしていたので登園。2日後に自分も風邪を引いて久しぶりに38度くらいの発熱。&lt;/p&gt;&#xA;&lt;p&gt;一昨日は奥さんに子を任せて、友達とブルーノート東京の&lt;a href=&#34;https://musicguide.jp/information/46660/&#34;&gt;Mike Sternのライブ&lt;/a&gt;を観に行った。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://punchdrunker.tokyo/mike-stern.jpg&#34; alt=&#34;mike stern + jeff lorber&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ピッキングの際の右手首が妙に浮いていたので、気になって調べてみたら2016年に&lt;a href=&#34;https://www.arban-mag.com/article/3900&#34;&gt;両腕を骨折した&lt;/a&gt;せいでフォームが変わってしまったようだった。&lt;/p&gt;&#xA;&lt;p&gt;初めてMike Sternの演奏を聞いたのは大学1年の時にジャズ研の部室で先輩がVHSで流していた&lt;a href=&#34;https://www.youtube.com/watch?v=ZdNX9Hm4ISI&#34;&gt;Brecker Brothersの復活ライブのSong for Barry&lt;/a&gt;だった。テレキャスをチョーキングしまくるソロにいたく感銘を受けてしまって、ずっとライブに行ってみたいと思っているうちに20年以上経ってしまっていた。&lt;/p&gt;&#xA;&lt;p&gt;日曜は3家族連れでよみうりランドのプールに行ってきた。年内最終営業日だった。帰り際、顔まで毛布で覆われた人がライフセーバーに担架で運ばれていて怖かった。&lt;/p&gt;</description>
     </item>
     <item>
       <title>日報 - 2023年8月30日</title>
-      <link>http://localhost:1313/post/2023-08-30/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-30/</link>
       <pubDate>Wed, 30 Aug 2023 20:58:44 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-30/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-30/</guid>
       <description>&lt;h1 id=&#34;開発&#34;&gt;開発&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ios&#34;&gt;iOS&lt;/h2&gt;&#xA;&lt;p&gt;Swift 5.8.1に上がったことでSourceryまわりでエラーが起きて面倒な感じになってきた。&lt;/p&gt;&#xA;&lt;h2 id=&#34;登壇資料&#34;&gt;登壇資料&lt;/h2&gt;&#xA;&lt;p&gt;進捗ありません&lt;/p&gt;&#xA;&lt;h1 id=&#34;生活&#34;&gt;生活&lt;/h1&gt;&#xA;&lt;p&gt;腰痛と肩凝りが辛くて、6月くらいからカイロプラクティックに通い始めた。最初は隔週で通い、最近は1ヶ月に1度のペースで通っている。&lt;/p&gt;&#xA;&lt;p&gt;腰痛はほとんど改善し、首まわりがポキポキ音がしたり肩凝りしたりという症状がちょっと改善してきた。&lt;/p&gt;&#xA;&lt;h1 id=&#34;将来&#34;&gt;将来&lt;/h1&gt;&#xA;&lt;p&gt;キャリアパスとは何なのだろうか。これまでずっとエンジニアとして働いてきたけど、エンジニアとして働くことを目的としているわけではないので、違う職種でもいいはずなのだけど、市場の需給バランス的にエンジニアを続けた方が収入を高く維持できる、みたいな状況が続いているので、惰性でやっている気もする。&lt;/p&gt;&#xA;&lt;p&gt;ジョブチェンするにしても、「元エンジニアです」みたいな自己アピールすることでレゾンデートル保ってるおじさんにだけはなりたくないな、と思って日々過ごしています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>日報 - 2023年8月29日</title>
-      <link>http://localhost:1313/post/2023-08-29/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-29/</link>
       <pubDate>Tue, 29 Aug 2023 22:08:35 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-29/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-29/</guid>
       <description>&lt;h1 id=&#34;開発&#34;&gt;開発&lt;/h1&gt;&#xA;&lt;p&gt;AndroidのコードレビューをいくつかしながらiOSのbitriseの設定変更にチャレンジ。&lt;/p&gt;&#xA;&lt;h2 id=&#34;ios&#34;&gt;iOS&lt;/h2&gt;&#xA;&lt;p&gt;XCodeのアップデート対応。パッケージマネジメントシステムが複数あるとキャッシュのクリアにも一苦労で全然問題が解決しなかった。&lt;/p&gt;&#xA;&lt;h2 id=&#34;android&#34;&gt;Android&lt;/h2&gt;&#xA;&lt;p&gt;金曜日のイベントで登壇するので資料を作らないといけないけれど、まだ一文字も書けていない。&lt;/p&gt;&#xA;&lt;h1 id=&#34;雑用&#34;&gt;雑用&lt;/h1&gt;&#xA;&lt;p&gt;メール連絡が必要なお仕事がいくつかあるけど、案の定1件ミスって打ち合わせの時間を30分間違えていて、時間に遅れてしまってお詫びした。&lt;/p&gt;&#xA;&lt;h1 id=&#34;料理&#34;&gt;料理&lt;/h1&gt;&#xA;&lt;p&gt;ひさしぶりに近所の馴染みの鮨屋でランチ。大将の子とうちの子の誕生日が10日違いなので、子どもの食べ物の話などをした。帰りに海苔の端材をお土産にもらった。おそらく軍艦とかに切った海苔の余り。&lt;/p&gt;&#xA;&lt;p&gt;子の夕飯は鮭フレーク+米+もらった海苔で小さな鮭おにぎりを錬成した。主菜は鶏もも肉と余り野菜で鶏じゃがを薄味で作り、家族で同じものを食べた。子はどちらも気に入ったらしく美味しそうに食べていた。&lt;/p&gt;&#xA;&lt;h1 id=&#34;映画&#34;&gt;映画&lt;/h1&gt;&#xA;&lt;p&gt;9/1からウェス アンダーソンの新作&lt;a href=&#34;https://asteroidcity-movie.com/&#34;&gt;「アステロイド シティ」&lt;/a&gt;が公開。&lt;/p&gt;&#xA;&lt;p&gt;9/22からは&lt;a href=&#34;http://johnwick.jp/&#34;&gt;「ジョン・ウィック：コンセクエンス」&lt;/a&gt;が公開される。&lt;/p&gt;</description>
     </item>
     <item>
       <title>日報 - 2023年8月25日</title>
-      <link>http://localhost:1313/post/2023-08-25/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-25/</link>
       <pubDate>Fri, 25 Aug 2023 23:57:13 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-25/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-25/</guid>
       <description>&lt;h1 id=&#34;開発&#34;&gt;開発&lt;/h1&gt;&#xA;&lt;h2 id=&#34;android&#34;&gt;Android&lt;/h2&gt;&#xA;&lt;p&gt;ひたすらモジュール整理した。&lt;/p&gt;&#xA;&lt;p&gt;Shibuya.apkの登壇申し込みしたのでネタをちょっと考えたけど、あまり方向性だけ決めてまだ何も進んでない。&lt;/p&gt;&#xA;&lt;h1 id=&#34;その他&#34;&gt;その他&lt;/h1&gt;&#xA;&lt;p&gt;色々な人と会う予定を消化した。そして今週は雑用多め。&lt;/p&gt;&#xA;&lt;h1 id=&#34;雑感&#34;&gt;雑感&lt;/h1&gt;&#xA;&lt;p&gt;今週はGalaxy Z Fold5 / Flip5 が発表されたので、ちょっと気になるな〜と思いながら予約には至っていない。Foldable端末があると外出先で子にYoutubeを見せる時に安定してテーブルの上に置けるのですごく便利なので、いずれかのサイズのFoldable端末があると便利なんだよな。&lt;/p&gt;</description>
     </item>
     <item>
       <title>日報 - 2023年8月23日</title>
-      <link>http://localhost:1313/post/2023-08-23/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-23/</link>
       <pubDate>Thu, 24 Aug 2023 00:03:15 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-23/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-23/</guid>
       <description>&lt;h1 id=&#34;開発&#34;&gt;開発&lt;/h1&gt;&#xA;&lt;h2 id=&#34;android&#34;&gt;Android&lt;/h2&gt;&#xA;&lt;p&gt;再発防止できなそうな地雷を踏んでしまいhotfixリリース。&lt;/p&gt;&#xA;&lt;p&gt;雑感としてはストレージアクセスも非同期必須にしないとなぁというところ。Androidアプリではメインスレッドでネットワーク通信すると例外をthrowしてくれるけど、ストレージアクセスはそうではないので、同様にしてほしい気はする。&lt;/p&gt;&#xA;&lt;p&gt;モジュール整理で色々なところから参照されているクラスをモジュール移動したら案の定、芋蔓式に他のクラスもモジュール移動が必要になる。1クラスのモジュール移動のために3つ4つのPR作るのが当たり前な感じに。&lt;/p&gt;&#xA;&lt;h1 id=&#34;課外活動&#34;&gt;課外活動&lt;/h1&gt;&#xA;&lt;p&gt;アルバイト採用のためのコードレビューや諸連絡など。&lt;/p&gt;&#xA;&lt;h1 id=&#34;料理&#34;&gt;料理&lt;/h1&gt;&#xA;&lt;p&gt;友達が田舎から送られてきたとかいうとうもろこしを3本ほど使ってポタージュにした。半分冷凍して、半分は冷蔵ですぐに食べられるように保存。&lt;/p&gt;&#xA;&lt;p&gt;3000円くらいの良いオリーブオイルと、マルドンの塩、ブラックペッパーを振ると良い感じの一品になる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>日報 - 2023年8月18日</title>
-      <link>http://localhost:1313/post/2023-08-18/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-18/</link>
       <pubDate>Fri, 18 Aug 2023 23:12:34 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-18/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-18/</guid>
       <description>&lt;h1 id=&#34;開発&#34;&gt;開発&lt;/h1&gt;&#xA;&lt;h2 id=&#34;android&#34;&gt;Android&lt;/h2&gt;&#xA;&lt;p&gt;ひたすらマルチモジュール対応をした。&lt;/p&gt;&#xA;&lt;p&gt;strings.xmlを参照するクラスのルールをまだあまり決めていなくて、featureモジュールとcoer:uiだけはstrings.xmlを持たせても良いのかなー、などと悩んだ。翻訳ツールとの連携があるので、あまりxmlが増えるのは嬉しくない。&lt;/p&gt;&#xA;&lt;h1 id=&#34;音楽&#34;&gt;音楽&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3Ro6K1hTUd4&amp;amp;list=PLyJihFoIZ6EjRozw8GPepr1DXDOeVFljQ&amp;amp;ab_channel=DinnerParty-Topic&#34;&gt;Enigmatic Societyのアルバム&lt;/a&gt;を聴いた&lt;/p&gt;</description>
     </item>
     <item>
       <title>日報 - 2023年8月15日</title>
-      <link>http://localhost:1313/post/2023-08-15/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-15/</link>
       <pubDate>Tue, 15 Aug 2023 23:51:52 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-15/</guid>
-      <description>&lt;h1 id=&#34;開発&#34;&gt;開発&lt;/h1&gt;&#xA;&lt;h2 id=&#34;android&#34;&gt;Android&lt;/h2&gt;&#xA;&lt;p&gt;コードレビューしようとしたら色々既存課題を思い出してしまい、とりとめもなく調べものをした。&lt;/p&gt;&#xA;&lt;p&gt;最近はモジュール分割のPRが多めなのでコンフリクトも発生しやすく、つらさが増してきている。&lt;/p&gt;&#xA;&lt;p&gt;また今週はKotlin(not Android)のコーディング課題の評価のために久しぶりにIntelliJを使っているけど、新しいUIが良い感じだなと思って、もしかしたらAndrdoid Studioでも使える?と思って環境設定を開いたらNew UIというbeta機能の設定があって、有効にすると同じテイストのUIになった。&lt;a href=&#34;https://forest.watch.impress.co.jp/docs/news/1519433.html&#34;&gt;7月末のリリースから使えるようになったらしい&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;酒&#34;&gt;酒&lt;/h1&gt;&#xA;&lt;p&gt;いつものように2本くらい日本酒を買おうかと思い、近所の酒屋に行ったら鳳凰美田の米光2本セットと田酒 特別純米があったので、3本買ってしまった。日本酒を買いすぎるのは(健康に)良くないと思い、店のポイントカードを作るのも控えているくらいなのだが、こういう日もある。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/20230815sake.jpg&#34; alt=&#34;鳳凰美田2本と田酒&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://punchdrunker.tokyo/post/2023-08-15/</guid>
+      <description>&lt;h1 id=&#34;開発&#34;&gt;開発&lt;/h1&gt;&#xA;&lt;h2 id=&#34;android&#34;&gt;Android&lt;/h2&gt;&#xA;&lt;p&gt;コードレビューしようとしたら色々既存課題を思い出してしまい、とりとめもなく調べものをした。&lt;/p&gt;&#xA;&lt;p&gt;最近はモジュール分割のPRが多めなのでコンフリクトも発生しやすく、つらさが増してきている。&lt;/p&gt;&#xA;&lt;p&gt;また今週はKotlin(not Android)のコーディング課題の評価のために久しぶりにIntelliJを使っているけど、新しいUIが良い感じだなと思って、もしかしたらAndrdoid Studioでも使える?と思って環境設定を開いたらNew UIというbeta機能の設定があって、有効にすると同じテイストのUIになった。&lt;a href=&#34;https://forest.watch.impress.co.jp/docs/news/1519433.html&#34;&gt;7月末のリリースから使えるようになったらしい&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;酒&#34;&gt;酒&lt;/h1&gt;&#xA;&lt;p&gt;いつものように2本くらい日本酒を買おうかと思い、近所の酒屋に行ったら鳳凰美田の米光2本セットと田酒 特別純米があったので、3本買ってしまった。日本酒を買いすぎるのは(健康に)良くないと思い、店のポイントカードを作るのも控えているくらいなのだが、こういう日もある。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://punchdrunker.tokyo/20230815sake.jpg&#34; alt=&#34;鳳凰美田2本と田酒&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>日報 - 2023年8月14日</title>
-      <link>http://localhost:1313/post/2023-08-14/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-14/</link>
       <pubDate>Mon, 14 Aug 2023 21:41:08 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-14/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-14/</guid>
       <description>&lt;h1 id=&#34;開発&#34;&gt;開発&lt;/h1&gt;&#xA;&lt;h2 id=&#34;android&#34;&gt;Android&lt;/h2&gt;&#xA;&lt;p&gt;自分では先週画面実装したところの細かい調整をしたくらいで、あとは人のPRをいくつかコードレビューした。&lt;/p&gt;&#xA;&lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;&#xA;&lt;p&gt;アルバイト採用試験のコーディング課題の動作確認、コードレビュー、評価をした。提出してもらった回答は基本的に全てレビュー結果をフィードバックするようにしているので、なかなか時間を使う。そして、会ったことが無い人へのフィードバックの仕方などはとても気を遣う。&lt;/p&gt;&#xA;&lt;h1 id=&#34;雑用&#34;&gt;雑用&lt;/h1&gt;&#xA;&lt;p&gt;福利厚生系の申請をやった。偉い。&lt;/p&gt;&#xA;&lt;h1 id=&#34;体重&#34;&gt;体重&lt;/h1&gt;&#xA;&lt;p&gt;ここ4ヶ月ほどで8キロくらい痩せたが、3連休で1キロほどリバウンド。かなり飲み食いした自覚もあるので、納得。&lt;/p&gt;&#xA;&lt;p&gt;これまでの4ヶ月の食事は基本炭水化物抜きで、たまに麺類食べたりはしてたが、連日じゃなければ問題無かった。あと、毎朝トイレの後に決まって体重を測るのも重要。&lt;/p&gt;&#xA;&lt;p&gt;基本的な食事のパターンは、朝食に野菜と卵とソーセージ、チーズなど。昼食はなるべく社食のビュッフェで野菜と肉と魚。毎日ブロッコリーにカレーを掛けて食べている。夕飯は自炊で煮物系やステーキ、クックドゥの炒めものなどと豆腐などを適当に食べている。お気に入りは麻婆茄子と回鍋肉。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年8月13日記す</title>
-      <link>http://localhost:1313/post/2023-08-13/</link>
+      <link>https://punchdrunker.tokyo/post/2023-08-13/</link>
       <pubDate>Sun, 13 Aug 2023 22:46:21 +0900</pubDate>
-      <guid>http://localhost:1313/post/2023-08-13/</guid>
+      <guid>https://punchdrunker.tokyo/post/2023-08-13/</guid>
       <description>&lt;p&gt;お盆は特に有給を使ったりしていないので、普通の3連休を過ごした。&lt;/p&gt;&#xA;&lt;h1 id=&#34;外出&#34;&gt;外出&lt;/h1&gt;&#xA;&lt;p&gt;3日とも家族で何かしら外出した。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;地域の大きめの公園のじゃぶじゃぶ池&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CHUMSのサンシェードを持って行った。池の水はほぼ温水。体力が削られた。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;お台場の&lt;a href=&#34;https://www.odaiba-decks.com/shop/tenant/the-kids.html&#34;&gt;The Kids&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;たくさん子どもがいてすごかった。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.aqua-park.jp/aqua/index.html&#34;&gt;マクセルアクアパーク品川&lt;/a&gt; (水族館)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;めちゃくちゃ人間がいてすごかった。品プリの宿泊客が外出せずに遊べるから重宝しているんだろうなという感じ。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;料理&#34;&gt;料理&lt;/h1&gt;&#xA;&lt;p&gt;一番よく使うペティナイフを1000番と6000番で研いだ。切れ味が復活して、トマトを切るのが楽しい。&lt;/p&gt;&#xA;&lt;p&gt;ここ最近の朝食は決まって、ブロッコリーを茹でたやつ、きゅうり、トマト、目玉焼きとジョンソンヴィルのソーセージを食べる。&lt;/p&gt;&#xA;&lt;p&gt;また、最近は&lt;a href=&#34;https://www.youtube.com/@sanpiryoron&#34;&gt;賛否両論のyoutube動画&lt;/a&gt;のレシピが結構気にいっていてよく参考にする。&lt;br&gt;&#xA;すっぱいのが好きなので、&lt;a href=&#34;https://youtu.be/3SM7B-OIBaQ&#34;&gt;蛇腹きゅうり&lt;/a&gt; を今週2回作った。家飲みでも好評で、あっという間に3本漬けたのが無くなった。&lt;/p&gt;&#xA;&lt;p&gt;子ども向けの定番はコーンポタージュ。野菜の形が残っていると避けられたりするので、とうもろこしと玉ねぎと牛乳だけで作るコーンポタージュは便利である。大人が食べる時は塩と胡椒とオリーブオイルをかければ立派なひと皿になる。最初は裏ごししていたが、さすがに時間を取られるので、ハンドミキサーでつぶすだけにした。とうもろこし以外にもかぼちゃやさつまいもなどで類似のメニューを簡単に作ることができるので良い。&lt;/p&gt;&#xA;&lt;h1 id=&#34;酒&#34;&gt;酒&lt;/h1&gt;&#xA;&lt;p&gt;近所のワイン屋で薦めてもらった &lt;a href=&#34;https://www.grandvin.net/shopdetail/000000016623/&#34;&gt;カーヴ ド リュニー クレマン ド ブルゴーニュ ブラン ド ブラン ブリュット&lt;/a&gt; が良かった。どこか特定のドメーヌという訳ではなく、地元の生産者協同組合が作っているワインらしい。&lt;br&gt;&#xA;カヴァもクレマンもピンキリで、美味しいやつを探すのは結構大変。今どき3000円台で買える美味しい泡はかなり貴重。&lt;/p&gt;</description>
     </item>
     <item>
       <title>日報 - 2023年8月10日</title>
-      <link>http://localhost:1313/post/daily-report-2023-08-10/</link>
+      <link>https://punchdrunker.tokyo/post/daily-report-2023-08-10/</link>
       <pubDate>Thu, 10 Aug 2023 17:04:54 +0900</pubDate>
-      <guid>http://localhost:1313/post/daily-report-2023-08-10/</guid>
+      <guid>https://punchdrunker.tokyo/post/daily-report-2023-08-10/</guid>
       <description>&lt;h1 id=&#34;開発&#34;&gt;開発&lt;/h1&gt;&#xA;&lt;h2 id=&#34;rails&#34;&gt;Rails&lt;/h2&gt;&#xA;&lt;p&gt;隔週で行っているチームみんなで参加するextreme fishbowl(モブプロ)でAPIを改修するタスクをやった。&lt;/p&gt;&#xA;&lt;p&gt;Android, iOS, Railsの順で回しており、今日はRailsの日。&lt;/p&gt;&#xA;&lt;p&gt;TDDで進めたが、今日はちょっと進行がグダついたかもしれないと反省。&lt;/p&gt;&#xA;&lt;h2 id=&#34;android&#34;&gt;Android&lt;/h2&gt;&#xA;&lt;p&gt;まだAGP 8.0を利用しているので、AGP8.1に上げるための調査。&#xA;kotlinはまだ1.7系。&lt;/p&gt;&#xA;&lt;p&gt;lifecycle 2.6以上にした方がよさそうで、Transformations.map / switchMapが廃止になっていたので、Observableの拡張関数に置き換え。&#xA;なぜかKotlin 1.7.22と1.8.10が混在することになってしまい、excludeなど試したがうまくいかず、更新自体は先送り。AGP8.1にする時に同時にlifecycleも2.6.1に上げることにした。&lt;/p&gt;&#xA;&lt;p&gt;ObserberのonChangedの引数がnon-nullになったため、既存のクラスでちょっと面倒が起きたが雑に回避。&lt;/p&gt;&#xA;&lt;p&gt;コードレビューをいくつか見た。&lt;/p&gt;&#xA;&lt;h1 id=&#34;雑用&#34;&gt;雑用&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;採用関連でメール連絡&lt;/li&gt;&#xA;&lt;li&gt;立替精算の申請&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;私用&#34;&gt;私用&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;保育園の継続のために、年に一度提出する勤務証明書を会社に発行申請。&lt;/li&gt;&#xA;&lt;li&gt;保育園の8月の食事の献立を印刷(子どもの夕飯を用意するにあたって、昼に何食べてるかを把握しておきたい)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
