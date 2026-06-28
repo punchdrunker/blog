@@ -6,8 +6,15 @@
     <description>Recent content in Posts on punchdrunker.log</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 20 Jun 2026 11:12:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 10:52:00 +0900</lastBuildDate>
     <atom:link href="https://punchdrunker.tokyo/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cornix LP 練習中</title>
+      <link>https://punchdrunker.tokyo/post/2026-06-28/</link>
+      <pubDate>Sun, 28 Jun 2026 10:52:00 +0900</pubDate>
+      <guid>https://punchdrunker.tokyo/post/2026-06-28/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://punchdrunker.tokyo/cornixlp.jpg&#34; alt=&#34;Cornix LP&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;久しぶりに HHKB以外のキーボードを買って試している。&#xA;&lt;a href=&#34;https://jezailfunder.jp/products/cornix-lp-keyboard?srsltid=AfmBOooY4UJlCc4YhNwVMsVDScWySPb6Be3ESgKgfDMJKtEwEpq9OaQa&#34;&gt;https://jezailfunder.jp/products/cornix-lp-keyboard?srsltid=AfmBOooY4UJlCc4YhNwVMsVDScWySPb6Be3ESgKgfDMJKtEwEpq9OaQa&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;以前はすぐに完売していたが、今回からは増産したのか、まだ在庫が残っている様子。&lt;/p&gt;&#xA;&lt;p&gt;いわゆる40%キーボードでHHKBと比べてもかなりキーが少なく感じる。デフォルトのキーマップは存在するが、基本的には全て自分でカスタムできるようになっているので、あれこれ考えながらキーマップを修正していくわけだが、今時はclaudeやchat GPTがあるのでキーマップ作成も捗る。&lt;/p&gt;&#xA;&lt;p&gt;HHKB 2台で自力分割化してもいいのだが、Cornix LPは完全に無線で利用できるのと、ダイアル2つ付いてるのが面白くて気になっていた。実際試してみて左のダイアルの回転を上下キーに、押し込みをEnterに割り当てることで claude codeのプロンプトの選択式のやりとりをダイアルだけで完結できたりして、面白い。&lt;/p&gt;&#xA;&lt;p&gt;辛い点としてはキーの縦の並びが従来のRow-staggeredと違い、 Column-staggeredなのでこれまでのタイピングのクセを捨てなければならない。縦に直線なので、従来のキーボードに慣れてると指の動きをかなり矯正しないと使えないし、これに慣れると従来のキーボードに違和感を感じてしまうので、そこは不自由に思う。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>近頃</title>
       <link>https://punchdrunker.tokyo/post/2026-06-20/</link>
